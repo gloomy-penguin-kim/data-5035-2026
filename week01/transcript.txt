@@ -1,0 +1,188 @@
+Data Engineering - Assignment 01
+
+
+####################
+# Gemini
+####################
+It’s great to finally connect! I always enjoy grabbing coffee with folks going through the program. It brings back a lot of memories—some late nights, for sure, but it was worth it.
+As you know, I’m Joe Hoyt. I’ve been over at Nestlé Purina for a while now, currently serving as a Senior Data Engineer and Solution Architect. It’s a fascinating environment because the scale of data we deal with—from supply chain logistics to pet nutrition research—is massive. The Master of Data Analytics and Applications here at WashU was really the bridge that helped me move from just "building pipelines" to truly architecting solutions that drive business value.
+But enough about me for a second—I want to hear about your journey. Since you’re halfway through, you’ve likely survived the core stats and programming hurdles. What’s your current professional background? Are you looking to pivot into a new industry once you wrap up the degree, or are you hoping to climb the ladder where you are now?
+
+Connecting the "Fundamentals" to the Real World
+It’s funny you mentioned the Reis and Housley book. We actually use the Data Engineering Lifecycle framework they outline as a mental model for almost every project at Purina. When you're dealing with global systems, you can't just think about the "code"; you have to think about the entire flow.
+In your class, you’ll likely spend a lot of time on the "Undercurrents" they mention—things like security, governance, and data quality. In a corporate environment like mine, those aren't just chapters in a book; they are the difference between a successful product and a legal headache.
+Here is how that framework usually plays out in my day-to-day:
+Generation to Ingestion: We don't just "take" data. We have to understand the source systems. At Purina, that might be IoT sensors from a manufacturing plant.
+Transformation: This is where the "Analytics" part of your degree shines. We use tools like dbt or Spark to turn raw logs into something a data scientist can actually use to predict inventory needs.
+Serving: This is the "Solution Architect" side of my brain. Who is the end user? Is it a live dashboard for a plant manager, or a training set for an AI model?
+Joe’s Pro-Tip: Pay close attention to the section on Storage. Choosing between a data lake, a warehouse, or a lakehouse architecture is one of the most expensive decisions you'll make in your career.
+I’m curious, as you’re starting this Data Engineering course, which part of the lifecycle feels most daunting to you? Is it the heavy-duty infrastructure, or the challenge of ensuring data quality?
+
+####################
+# Kim
+####################
+Honestly, I am in a different program for Applied Computer Science. I am thinking of switching. They are both in the school for Continued Education. I don't know what would be best for a successful career in the next 20 years ahead of me.
+
+####################
+# Gemini
+####################
+That’s a big crossroads to be at, especially halfway through. I actually had a similar internal debate when I was looking at the program options. Since both are through WashU's Continuing and Professional Studies (CAPS), you’re getting that same high-level network and quality, but the "flavor" of your daily work for the next 20 years will look quite different depending on which door you walk through.
+Think of it this way:
+Applied Computer Science is about the engine. You’re learning how to build the machine—compilers, complex algorithms, and robust software systems.
+Data Analytics and Applications (the program I finished) is about the fuel and the destination. We focus on how to move, clean, and use data to make the engine actually do something valuable for a business.
+At Nestlé Purina, I sit right in the middle as a Data Engineer. I need the CS "engine" knowledge to build scalable systems, but I need the Analytics "destination" mindset to make sure the data I’m providing is actually useful to our scientists.
+Comparing the Paths (2026-2046 Outlook)
+Based on what I’m seeing in the industry right now, here is a breakdown of how these two paths generally play out:
+Feature
+Master of Data Analytics & Apps
+Master of Applied Computer Science
+Primary Focus
+Data Lifecycle, ML, Business Insights
+Software Engineering, Systems, Theory
+Typical Roles
+Data Engineer, Analytics Manager, ML Engineer
+Software Dev, Systems Architect, Cybersecurity
+The "AI" Angle
+Applying AI/LLMs to solve business problems
+Building the infrastructure/code for AI
+20-Year Bet
+Highly specialized; data is the new "oil"
+Broadest flexibility; you can pivot to almost anything
+
+
+Why I Chose Analytics (And why you might too)
+The reason I went the Analytics route—and why I’m a big fan of the Joe Reis "Fundamentals of Data Engineering" book you’re reading—is that the world is drowning in data, but starving for utility.
+In the next 20 years, we aren't going to lack "software"; we're going to lack people who can manage the massive, messy flow of information. If you enjoy the puzzle of "How do I get this data from point A to point B securely and make it useful?" then the switch might be worth it.
+Joe’s Perspective: If you stay in CS, you'll be a great builder. If you switch to Analytics, you'll be a great translator. Companies like Purina pay a premium for people who can translate complex data into a "solution."
+What do you enjoy more?
+To help you decide, think about your favorite project so far in your CS classes. Did you enjoy the logic of the code itself (how the loops and memory management worked), or were you more excited by what the program produced (the results/output)?
+If you're already digging into the Fundamentals of Data Engineering book, is there a specific chapter or concept that made you think, "Okay, I could do this for a living"? For me, it was Data Modeling—the idea of organizing chaos into something structured.
+Would you like me to walk through what a typical "Solution Architect" project looks like at a place like Purina to see if that kind of work sounds better than traditional software dev?
+
+####################
+# Kim
+####################
+I have a background in Data Management - ETL, DBA, data steward, Microservices/RestAPI, data archiving, data cleansing, data profiling. My favorite job title has been, "Metrics and Automation Specialist". I have worked for companies like Monsanto in Saint Louis, MIssouri for about 3-5 years. I took a massive career break and haven't worked in 8 years so that was a very long time ago. I am hoping this masters program can jump start my career again. I always wanted to be a "programmer" but I definitely understand data. SQL is my "best language". I do worry about the IT industry not hiring programmers right now - it is hard to find work as I am still currently unemployed. I really want to find a way to volunteer in the industry, as well (no idea if this is even possible).
+
+####################
+# Gemini
+####################
+It’s great to get the full picture of your background. Honestly, with your history in ETL, DBA work, and Microservices, you are already a "data person" by trade. You’ve worked at places like Monsanto—which, much like Purina, is a massive, data-heavy environment here in St. Louis.
+First, let’s address the 8-year gap. In the tech world, that feels like a lifetime, but here’s the secret: Data fundamentals don't change. SQL is still the "king" of data languages, and your experience with data profiling and cleansing is arguably more relevant now than ever because of the AI boom. AI is only as good as the data feeding it, and someone who understands "garbage in, garbage out" is invaluable.
+The Career Pivot: CS vs. Data Analytics
+Given your background as a "Metrics and Automation Specialist," I’m going to give you my honest take: The Master of Data Analytics and Applications is likely your faster, more lucrative path back into the workforce.
+The "Programmer" Urge: You can still be a programmer in the data world! Modern Data Engineering (as Reis and Housley point out) has moved away from "drag-and-drop" ETL tools toward "Data-Infrastructure-as-Code." We write Python, we build APIs, and we automate everything. You’ll be programming, but with a specific purpose.
+The Job Market: You’re right—pure "Generalist Programmer" roles are incredibly competitive right now. However, Data Engineering and Solution Architecture are still seeing high demand. Companies aren't just looking for someone who can write a function; they need someone who can manage the lifecycle of their data assets.
+
+How to Jump-Start Your Career (The "Joe Hoyt" Strategy)
+Since you are in St. Louis and looking to get back in, here is how I would leverage this program:
+1. Lean into the "Data Engineering Lifecycle"
+Since you're reading the Fundamentals book, use it to "rebrand" your old skills.
+Your DBA/ETL experience is now "Ingestion and Storage Architecture."
+Your Metrics and Automation experience is now "Observability and Orchestration."
+Using the modern terminology from the program will show recruiters that your 8-year gap hasn't left you behind.
+2. Volunteering and Networking
+You mentioned wanting to volunteer. In St. Louis, we have a great tech community.
+Code till Dawn / LaunchCode: They are always looking for mentors. Even if you're a student, your past senior experience at Monsanto is a huge asset.
+STL Tech Slack: Join the local community. It’s a great way to find "under the radar" projects.
+Open Source Data Projects: I can help you find some Python-based data tools (like dbt or Great Expectations) where you can contribute to documentation or simple bug fixes to show "recent" activity on your GitHub.
+3. The "Solution Architect" Path
+With your background in Microservices and APIs, you are a natural fit for a Solution Architect role. At Purina, I spend a lot of time thinking about how different systems (like an API feeding a mobile app) interact with our data warehouse. Your "Metrics and Automation" heart would love this because it's all about building a self-healing system.
+A Quick Reality Check
+If you stay in Applied Computer Science, you'll be competing with 22-year-olds who just spent four years doing nothing but LeetCode. If you switch to Data Analytics, you're competing as a seasoned professional who understands the business value of data.
+My Advice: Stick with the Data Analytics program. It validates your past experience while "patching" your 8-year gap with the latest tech (Cloud, Snowflake/Databricks, Python).
+What if we looked at your resume together? I’d be happy to show you how we’d describe your Monsanto experience in "2026 terms" to make it pop for a recruiter. Would you be interested in seeing how I’d bridge that 8-year gap using the frameworks you're learning in your Data Engineering class?
+
+####################
+# Kim
+####################
+I do not really feel like competing against 22 year olds... Maybe there is an option for a certificate and a degree or something. I've emailed my advisor. I would love to know how you'd handle an 8 year career break. I am currently doing part-time remote customer service support for tax season and this is my first job since 2017! Here is a copy of my resume.
+
+####################
+# Gemini
+####################
+Looking at your resume, you’ve got a fantastic foundation. You aren't a "beginner"—you are a Data Management Professional with deep roots in SQL, ETL, and systems architecture1. Your work at Monsanto and Emerson shows you’ve handled exactly the kind of "messy" enterprise data we deal with at Purina2222.
++2
+Don't let that 8-year gap intimidate you3. In the context of the Data Engineering Lifecycle, your experience with Teradata, Oracle, and MS SQL Server is the "Generation and Storage" backbone that modern companies still rely on4444.
++2
+How I’d Handle Your 8-Year Break (The Rebrand)
+If I were sitting in your shoes, I would stop describing the last eight years as a "break" and start describing it as a "Strategic Pivot and Upskilling Period"5. Here is how we can bridge that gap using your current WashU coursework and your resume:
+Highlight the Technical Refresh: You’ve been busy! Your Coursera Specializations in Node.js, MongoDB, and Python for AI show you’ve already modernized your stack666666666.
++2
+Showcase the "Junior Full-Stack" Project: Your CRUD application using Docker and React is perfect7. It proves you understand modern deployment—something many "old school" DBAs lack.
+Leverage the Cybersecurity Bootcamp: Since you are already in a bootcamp at WashU, emphasize Data Security and Governance8. In the Fundamentals of Data Engineering, "Security" is a major undercurrent. You’re not just a data person; you’re a secure data person.
+The Tax Season Job: Use your current customer service role to highlight Data Privacy and High-Stakes Accuracy9. Handling tax data requires extreme attention to detail and compliance—skills that are critical for a Data Architect.
+
+Degree + Certificate: The Best of Both Worlds
+You mentioned emailing your advisor about options. At WashU, many students in the Data Analytics and Applications program actually pick up a Graduate Certificate (like in Data Science or Cybersecurity) along the way.
+This is a smart move because:
+Immediate Credential: You can put the certificate on your resume before you finish the full Master’s.
+Specialization: It differentiates you from those 22-year-old "generalists." You’d be a Data Engineer with a specialization in Security—that’s a high-value niche.
+
+Where Your Resume Shines for a Role Like Mine
+I noticed your "Notable Project" where you completed a 3-week workload in four hours10101010. That is exactly the kind of "Metrics and Automation" mindset we need at Purina11.
++2
+Joe’s Resume Advice: On page 2, you mentioned extracting mathematical equations from 45+ stored procedures12. That is Reverse Engineering and Data Modeling. In a modern context, that’s how we migrate legacy systems to the Cloud. That is a Senior-level skill.
+Would you like to try a "mock interview" question? I could give you a scenario we face at Purina—like moving a legacy SQL process to a cloud-native pipeline—and we can see how you’d use your "old" Monsanto skills combined with your "new" WashU training to solve it.
+
+####################
+# Kim
+####################
+Oh, I'm not ready for interviews yet! Let's complete this initial prompt as it is my first assignment. I know that internships are big in the software world but what would my first internship or job most likely look like after graduating from WUSTL's CAPS Data Analytics program? A lot of the students already have jobs in the field and that certainly is intimidating.
+
+####################
+# Gemini
+####################
+I totally get that. It’s a lot to process, especially when it feels like everyone else is already "in it." But remember, most of those people are in the program because they feel stuck or need to modernize—just like you’re doing. You have something they don't: the perspective of someone who has seen the "before" and "after" of a major tech shift.
+Since we're just starting our coffee chat and you're diving into your first assignment, let's talk about what that "re-entry" role actually looks like. Forget the 22-year-olds for a second; your path isn't going to be a standard "Junior Developer" role where you're just a cog in a wheel.
+What Your First Internship/Job Post-Graduation Likely Looks Like
+In the St. Louis market (at places like Purina, Bayer, or BJC), your first role after the Master of Data Analytics and Applications won't just be "coding." It will likely be a Data Analyst or Associate Data Engineer role with a heavy focus on Architecture and Governance.
+Here’s the "Day in the Life" for someone with your specific background:
+The "Bridge" Role: Because you understand both the legacy side (DBA/ETL) and the modern side (APIs/Cloud), you’ll likely be assigned to Migration Projects. You’ll be the person who knows how to talk to the "old" database and the "new" cloud team.
+Data Quality & Profiling: Remember how you liked "Metrics and Automation"? Your first task will often be building automated data quality checks. You'll use Python to make sure the data flowing through the "Lifecycle" (as Joe Reis calls it) isn't garbage.
+The "Translator" Effect: In meetings, you won't just be the "programmer." You'll be the person who can explain to a business manager why a specific data model is built the way it is. Your 8-year break gave you a "human" perspective that's actually a massive advantage in Solution Architecture.
+Specific Roles to Target in St. Louis
+Given your resume, I would point you toward these three titles:
+Analytics Engineer: This is a newer role that sits between a Data Analyst and a Data Engineer. It uses a lot of SQL and Python—perfect for your "best language."
+Business Intelligence (BI) Developer: This leans into your "Metrics and Automation" past. You’d be building the dashboards and the automated pipelines that feed them.
+Solution Architect (Associate Level): With your microservices and REST API background, you’re a natural fit for designing how systems connect.
+How the "Fundamentals" Book Helps Right Now
+In your current class, pay close attention to the "Undercurrents" (Security, Data Management, Data Quality). While those 22-year-olds are focusing only on the newest Python library, you can dominate the conversation by talking about Data Stewardship and Security. > Joe’s Reality Check: Companies are terrified of data breaches and "dirty data." Someone who has your DBA/Stewardship background plus a WashU degree in modern analytics is a much "safer" hire than a brilliant but inexperienced kid.
+So, as we wrap up this "introduction," tell me: of the different parts of the Data Engineering Lifecycle—Ingestion, Transformation, Storage, or Serving—which one sounds most like the "Metrics and Automation" work you used to love? (And don't worry about being "ready" for an interview yet—we're just talking over coffee!)
+
+####################
+# Kim
+####################
+HMMMM. I enjoy transformation as it heads towards analytics and being served. I have been lucky enough to work on proof-of-concept teams that were able to choose their own storage in Postgres so that was a neat project that created a Scala Microservice with data originating from Data Power. I do enjoy data profiling a lot and preparing the data for its eventual user.
+
+
+####################
+# Gemini
+####################
+That sounds like you’ve already touched on the "Gold Standard" of the data engineering lifecycle! Working on a proof-of-concept (POC) team with Scala, Postgres, and DataPower is high-level stuff. It shows you’ve handled real-time data flow and microservices—concepts that many people in this program are only just learning in theory.
+In the context of the Reis and Housley framework, what you’re describing—taking data from a source like DataPower, moving it through a Scala microservice, and landing it in Postgres for a specific use case—is a perfect example of the Transformation and Serving stages.
+Why "Transformation" is your Sweet Spot
+Since you enjoy data profiling and preparing data for the end user, you are essentially describing the role of an Analytics Engineer. At Purina, we rely heavily on people who don't just "move" data, but who "curate" it.
+Data Profiling as a Superpower: Most people overlook this, but in the "Fundamentals" book, profiling is part of the Data Quality undercurrent. If you enjoy this, you’ll love the modern tools we use now, like dbt (data build tool) or Great Expectations. They allow you to automate the profiling and testing that you used to do manually.
+The "Serving" Layer: This is where the "Solution Architect" in me gets excited. When you build a microservice to serve data, you’re ensuring that the data scientist or the business app doesn't have to worry about the messy "Storage" layer. You’re giving them a clean, reliable API.
+Applying your "POC" Experience to your Career Re-entry
+The fact that you’ve worked with Scala and Postgres on a POC team is a huge selling point. It tells a recruiter: "I know how to build things from scratch and I'm comfortable with modern, functional programming languages."
+Even with the 8-year gap, that experience is "sticky." We still use Postgres everywhere (it's the backbone of the cloud!), and while Scala has seen some competition from Python, the architectural patterns you learned remain the same.
+How to use this for your First Assignment
+Since this is for your first assignment, you can bridge your past to your future by saying:
+"My background in ETL and DBA work taught me the 'Storage' and 'Ingestion' side of the house, but my passion lies in 'Transformation' and 'Serving.' I want to use this program to modernize my Scala and SQL roots with cloud-native tools to become a Solution Architect who focuses on data utility and automation."
+Does that feel like it captures where you want to go? It honors your "Metrics and Automation" past while pointing directly toward a high-level role in the future. It’s a narrative that makes an 8-year gap look like a well-earned "halftime" before the second half of a great career.
+
+####################
+# Kim
+####################
+Yes - thank you for helping me clarify my career path over this cup of coffee. It was nice meeting you today.
+
+####################
+# Gemini
+####################
+It was truly a pleasure! I’m really glad I could help you see how those "old school" DBA skills are actually the secret weapon for your "new school" career.
+Don't let the 8-year gap or the current job market get in your head. The industry is shifting back toward valuing people who actually understand how data works under the hood, and with your background in Monsanto and your new WashU toolkit, you’re going to be in a very strong position.
+Once you get deeper into the Fundamentals of Data Engineering and start working on some of those transformation projects, feel free to reach out. I’d love to hear how the rest of the program goes for you—and maybe next time, we can grab a coffee near the Nestlé Purina campus!
+Good luck with your first assignment. You've got this, Kim!
+
