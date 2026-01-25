@@ -1,3 +1,13 @@
+-- Title:   Exercise02.sql 
+-- Name:    Kim Jones 
+-- Date:    1/25/2026  
+-- Notes:   Data profiling of around 200 records of Donation data with several fields of PII 
+
+-- "Percentiles and quartiles are statistical measures used to describe the distribution and spread of data by dividing 
+-- ordered data into 100 or 4 equal-sized groups, respectively. Key measures include Q1 (25th percentile), Q2 (median/50th 
+-- percentile), and Q3 (75th percentile), which help identify data spread and outliers" 
+-- https://en.wikipedia.org/wiki/Quartile 
+-- https://stackoverflow.com/questions/75476617/determine-median-and-quartiles-using-columnar-data-in-snowflake
 with stats as (
     select
         percentile_cont(0.25) within group (order by amount)as q1,
@@ -12,7 +22,7 @@ bounds as (
         q1 - 1.5 * (q3 - q1) as lower_bound,
         q3 + 1.5 * (q3 - q1) as upper_bound
     from stats
-)
+) 
 select  
         -- Profile Check: some names seem to be formatted with a comma between last name and 
         --                  first name while others seem to have the name in order 
@@ -60,7 +70,8 @@ from    data5035.spring26.donations as d
 
         cross join bounds as b 
 
- 
+
+
 /*
 Findings: 
 - Donation_Id: Regular data, considered an ID therefore it doesn't need to increment normally but it seems to do this anyway. 
