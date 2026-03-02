@@ -1,0 +1,4908 @@
+[
+    {
+        "headline": "Jim Carrey's New Look Sparks Dark Conspiracy Theories...",
+        "article_url": "https://www.yahoo.com/entertainment/celebrity/articles/controversy-over-jim-carreys-c-123919034.html",
+        "archive_date": "February 28, 2026",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/02/28/20260228_164439.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.6625670194625854
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "c726e4bbb97029a9399b6e3999ec33331bd1b7cf488c58ef71ee8637b091e47b",
+        "scraped_at": "2026-03-02T02:09:09.440651"
+    },
+    {
+        "headline": "Tucker, Candace -- and Conspiracy-Theory Podcast Grift...",
+        "article_url": "https://www.thefp.com/p/tucker-candace-and-the-conspiracy",
+        "archive_date": "February 25, 2026",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/02/25/20260225_202338.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7727506756782532
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "1907d3c544ce7df1a5637801663b204a2772c4b19318ba7cad4bea3f0f8f8cb3",
+        "scraped_at": "2026-03-02T02:09:09.570138"
+    },
+    {
+        "headline": "UPDATE: NFL medical official addresses viral conspiracy theory linking 49ERS injuries to electrical substation...",
+        "article_url": "https://www.cbssports.com/nfl/news/nfl-addresses-49ers-injuries-viral-conspiracy-theory-electrical-substation/",
+        "archive_date": "January 30, 2026",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/30/20260130_201139.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5830472111701965
+            }
+        ],
+        "scores": {
+            "neg": 0.207,
+            "neu": 0.793,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "7ebc16b42f068644458c7e7cff0b4aecd70bb2d305bf05b12cab8bae92f8abda",
+        "scraped_at": "2026-03-02T02:09:09.903324"
+    },
+    {
+        "headline": "Bongino stoked 'deep state' conspiracy theories. Now they're haunting him...",
+        "article_url": "https://www.msn.com/en-us/politics/general/ar-AA1UovOB",
+        "archive_date": "January 18, 2026",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/18/20260118_153140.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.7867456674575806
+            }
+        ],
+        "scores": {
+            "neg": 0.407,
+            "neu": 0.593,
+            "pos": 0.0,
+            "compound": -0.6705
+        },
+        "hash": "211edd0f09ffa9defd193104d86f99f45a700c9cf474519667fc004a2d8a8ba5",
+        "scraped_at": "2026-03-02T02:09:09.949051"
+    },
+    {
+        "headline": "He stoked 'deep state' conspiracy theories. Now they're coming back to haunt him...",
+        "article_url": "https://www.msn.com/en-us/politics/general/he-stoked-deep-state-conspiracy-theories-now-they-re-coming-back-to-haunt-him/ar-AA1UovOB",
+        "archive_date": "January 17, 2026",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/17/20260117_145540.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.6840603947639465
+            }
+        ],
+        "scores": {
+            "neg": 0.357,
+            "neu": 0.643,
+            "pos": 0.0,
+            "compound": -0.7269
+        },
+        "hash": "e587e1dd0ef282d76de00f347cb929853aca1c9a65d45cd1556d8ab2dd2eee78",
+        "scraped_at": "2026-03-02T02:09:09.996496"
+    },
+    {
+        "headline": "DOJ Organizing Vast Conspiracy Investigation Against Enemies...",
+        "article_url": "https://www.democracydocket.com/news-alerts/attorney-general-pam-bondi-conspiracy-investigation-trump-enemies/",
+        "archive_date": "December 30, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/30/20251230_113641.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.36589691042900085
+            }
+        ],
+        "scores": {
+            "neg": 0.569,
+            "neu": 0.431,
+            "pos": 0.0,
+            "compound": -0.765
+        },
+        "hash": "0c8016e4d18efeb93bf790d745a251e38e3957df9d5ca622ee3cb9a75b58c94c",
+        "scraped_at": "2026-03-02T02:09:10.039716"
+    },
+    {
+        "headline": "IMAGES: How GOOGLE Search Tool Fueling Conspiracy Theories...",
+        "article_url": "https://studyfinds.org/misreading-google-trends-fueling-bondi-attack-conspiracies/",
+        "archive_date": "December 18, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/18/20251218_214139.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.4642322361469269
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "2ed0f43b4c8e9336b6da21c60db3e7350bdb6876a8c074eca913aae678868e2a",
+        "scraped_at": "2026-03-02T02:09:10.085507"
+    },
+    {
+        "headline": "'SCORE SETTLING' BEHIND PROSECUTIONS...\r\nVANCE 'CONSPIRACY THEORIST'...",
+        "article_url": "https://www.nytimes.com/2025/12/16/us/politics/trump-susie-wiles.html?unlocked_article_code=1.9E8.X5Un.RzkcVPQ2qNhM&smid=url-share",
+        "archive_date": "December 16, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/16/20251216_122541.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8404217958450317
+            }
+        ],
+        "scores": {
+            "neg": 0.362,
+            "neu": 0.638,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "7f0ed8c31d399bd48237cd0b91ef4c3763379208041548616f3f10d0029ce17e",
+        "scraped_at": "2026-03-02T02:09:10.134935"
+    },
+    {
+        "headline": "STUDY: Conservatives More Likely To Believe Conspiracy Theories, Share Fake News; Both Sides Twist Facts Equally...",
+        "article_url": "https://studyfinds.org/conservatives-believe-conspiracy-theories-but-both-sides-twist-facts/",
+        "archive_date": "December 12, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/12/20251212_171339.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8590130805969238
+            }
+        ],
+        "scores": {
+            "neg": 0.3,
+            "neu": 0.599,
+            "pos": 0.101,
+            "compound": -0.6486
+        },
+        "hash": "c1d2dcf509b40921433c92b013d239289b6fa46b6ff299c33bd5a8910b08063f",
+        "scraped_at": "2026-03-02T02:09:10.177695"
+    },
+    {
+        "headline": "Erika Kirk sternly rebukes conspiracy theorists peddling garbage about dead husband...",
+        "article_url": "https://nypost.com/2025/12/10/us-news/erika-kirk-sternly-rebukes-conspiracy-theorists-peddling-garbage-about-her-dead-husband-can-i-have-one-thing-2",
+        "archive_date": "December 10, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/10/20251210_193938.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.8064119815826416
+            }
+        ],
+        "scores": {
+            "neg": 0.461,
+            "neu": 0.539,
+            "pos": 0.0,
+            "compound": -0.8271
+        },
+        "hash": "05c718d8c2dd0f332a523a62e27c0ba954e1a989d5b80a384e2351b69cb921c7",
+        "scraped_at": "2026-03-02T02:09:10.214981"
+    },
+    {
+        "headline": "Owens Drops Another Kirk Conspiracy...",
+        "article_url": "https://www.mediaite.com/media/candace-owens-drops-yet-another-charlie-kirk-conspiracy-theory-the-u-s-military-was-involved/",
+        "archive_date": "December 10, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/10/20251210_112838.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7332647442817688
+            }
+        ],
+        "scores": {
+            "neg": 0.459,
+            "neu": 0.541,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "20e330e4d4c8e12a9c0445713eb4cd39f17a4c36297446bcc2928310e5093fd5",
+        "scraped_at": "2026-03-02T02:09:10.245169"
+    },
+    {
+        "headline": "Trump pardons Texas Dem after charged with bribery, money laundering and conspiracy...",
+        "article_url": "https://apnews.com/45a47bc329bec820cd19c087b20fca19",
+        "archive_date": "December 03, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/03/20251203_223238.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.39846882224082947
+            }
+        ],
+        "scores": {
+            "neg": 0.317,
+            "neu": 0.549,
+            "pos": 0.134,
+            "compound": -0.4588
+        },
+        "hash": "79fe001b28d5f1310bf381e38c0977c3fa517b952b2642c31c115566cb906ec3",
+        "scraped_at": "2026-03-02T02:09:10.292447"
+    },
+    {
+        "headline": "Discredited election-rigging conspiracy theory could strengthen military action...",
+        "article_url": "https://www.theguardian.com/us-news/2025/nov/21/trump-doj-venezuela-2020-election",
+        "archive_date": "November 21, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/11/21/20251121_194737.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.36681368947029114
+            }
+        ],
+        "scores": {
+            "neg": 0.463,
+            "neu": 0.368,
+            "pos": 0.169,
+            "compound": -0.6124
+        },
+        "hash": "3df9ae02a53aa9c92dc2308302cf642b4258e4a66cb9fe9b9cce1e0fa5785e3d",
+        "scraped_at": "2026-03-02T02:09:10.333107"
+    },
+    {
+        "headline": "Sarkozy Freed After Just 20 Days in Jail Over Qaddafi Conspiracy...",
+        "article_url": "https://www.nytimes.com/2025/11/10/world/europe/sarkozy-prison-appeals.html?unlocked_article_code=1.0E8.BqMc.XVGfjRwExr7N&smid=url-share",
+        "archive_date": "November 10, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/11/10/20251110_133941.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6052470207214355
+            }
+        ],
+        "scores": {
+            "neg": 0.225,
+            "neu": 0.596,
+            "pos": 0.179,
+            "compound": -0.1779
+        },
+        "hash": "11abd0ab57cdc5ade0ecc6dd15c56a7cdb5b277a6693aef12b3835d179157860",
+        "scraped_at": "2026-03-02T02:09:10.369473"
+    },
+    {
+        "headline": "MAGA Pushes 'Grand Conspiracy' as New Subpoenas Land...",
+        "article_url": "https://www.nytimes.com/2025/11/09/us/politics/trump-conspiracy-probe-subpoenas.html?unlocked_article_code=1.z08.S4Ru.SrHa1CccERX7&smid=url-share",
+        "archive_date": "November 09, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/11/09/20251109_130338.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.82357257604599
+            }
+        ],
+        "scores": {
+            "neg": 0.274,
+            "neu": 0.484,
+            "pos": 0.242,
+            "compound": -0.1027
+        },
+        "hash": "b2f66985985183a998d7adeb24c3798c7ca23d7c3bdbf938a72045d45484ef12",
+        "scraped_at": "2026-03-02T02:09:10.409007"
+    },
+    {
+        "headline": "Sarkozy jailed for 5 years over criminal conspiracy plot...",
+        "article_url": "https://metro.co.uk/2025/09/25/former-french-president-nicolas-sarkozy-found-guilty-criminal-conspiracy-plot-24258297/",
+        "archive_date": "September 25, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/25/20250925_151836.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.6019812226295471
+            }
+        ],
+        "scores": {
+            "neg": 0.625,
+            "neu": 0.375,
+            "pos": 0.0,
+            "compound": -0.875
+        },
+        "hash": "7f5c56422eeb129975a53013b29d569bf902a06ab73c53c58a5aed82e40c3f75",
+        "scraped_at": "2026-03-02T02:09:10.445066"
+    },
+    {
+        "headline": "UPDATE:  Pastor Rebukes Candace Owens for Haunting Family With Conspiracy Theories...",
+        "article_url": "https://www.mediaite.com/media/news/charlie-kirks-pastor-rebukes-candace-owens-for-haunting-kirk-family-with-conspiracy-theories/",
+        "archive_date": "September 17, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/17/20250917_163138.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.5204672813415527
+            }
+        ],
+        "scores": {
+            "neg": 0.379,
+            "neu": 0.621,
+            "pos": 0.0,
+            "compound": -0.6705
+        },
+        "hash": "05e26c2f9c69d62a21315d372774b60f76a58b0cdaab04eb5c84519fa437032b",
+        "scraped_at": "2026-03-02T02:09:10.486092"
+    },
+    {
+        "headline": "Conspiracy theories swirl...",
+        "article_url": "https://www.dailymail.co.uk/news/article-15087979",
+        "archive_date": "September 11, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/11/20250911_205439.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5759856104850769
+            }
+        ],
+        "scores": {
+            "neg": 0.63,
+            "neu": 0.37,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "6cbc2265bb0ba552cccd13f915295356927c41a9c7d20e0af6989050e1b40233",
+        "scraped_at": "2026-03-02T02:09:10.517995"
+    },
+    {
+        "headline": "The Rise of 'Conspiracy Physics'...",
+        "article_url": "https://www.wsj.com/science/physics/the-rise-of-conspiracy-physics-dd79fe36",
+        "archive_date": "September 11, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/11/20250911_135939.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5276453495025635
+            }
+        ],
+        "scores": {
+            "neg": 0.459,
+            "neu": 0.541,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "b4f0497d52e5d89f0ede39495d6488c858b8da7797264de48cffffa3e25ead01",
+        "scraped_at": "2026-03-02T02:09:10.553127"
+    },
+    {
+        "headline": "Alarm after FBI arrests army vet for 'conspiracy' over protest...",
+        "article_url": "https://www.theguardian.com/us-news/2025/sep/02/fbi-arrest-us-army-veteran-ice-protest",
+        "archive_date": "September 03, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/03/20250903_103437.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.9722886681556702
+            }
+        ],
+        "scores": {
+            "neg": 0.641,
+            "neu": 0.359,
+            "pos": 0.0,
+            "compound": -0.8658
+        },
+        "hash": "903c1a0dad147b909646eb225597be9ffd2d1540cec94f3db8cfa77ce2ed3425",
+        "scraped_at": "2026-03-02T02:09:10.590583"
+    },
+    {
+        "headline": "Verdict and sentencing phase of Bolsonaro election conspiracy trial begins...",
+        "article_url": "https://apnews.com/article/brazil-bolsonaro-trial-coup-f15e27582e7afaeadf64144f43b1c94b",
+        "archive_date": "September 02, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/02/20250902_105639.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6663272976875305
+            }
+        ],
+        "scores": {
+            "neg": 0.368,
+            "neu": 0.515,
+            "pos": 0.118,
+            "compound": -0.5267
+        },
+        "hash": "2034f713152f66148e9630c8f38df1eb7e1291b41fa90dfb04497bd505ce0599",
+        "scraped_at": "2026-03-02T02:09:10.633436"
+    },
+    {
+        "headline": "How anti-govt 'police killer' fell down Covid conspiracy rabbit hole...",
+        "article_url": "https://www.telegraph.co.uk/world-news/2025/08/26/police-killer-suspect-drawn-in-covid-conspiracy-movement/",
+        "archive_date": "August 26, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/26/20250826_213038.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.34311071038246155
+            }
+        ],
+        "scores": {
+            "neg": 0.49,
+            "neu": 0.51,
+            "pos": 0.0,
+            "compound": -0.8271
+        },
+        "hash": "3b70d86a0e822163f0044ca22851ddef9d54036e1b6a3042c4e27371097f0544",
+        "scraped_at": "2026-03-02T02:09:10.680749"
+    },
+    {
+        "headline": "Conspiracy Podcast Host Faces Murder Charge...",
+        "article_url": "https://www.tmz.com/2025/08/22/conspiracy-theory-podcast-tobias-marcus-nuttall-charged-murder-girlfriend/",
+        "archive_date": "August 22, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/22/20250822_200837.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.401193231344223
+            }
+        ],
+        "scores": {
+            "neg": 0.669,
+            "neu": 0.331,
+            "pos": 0.0,
+            "compound": -0.8442
+        },
+        "hash": "31da4af3696d65833e58c0a79f67a77d5ed0d4e72b1ad9e28fa55ce365617bed",
+        "scraped_at": "2026-03-02T02:09:10.712483"
+    },
+    {
+        "headline": "Tulsi Gabbard Goes Full 'X-Files' With New Conspiracy Theory...",
+        "article_url": "https://www.yahoo.com/news/articles/tulsi-gabbard-goes-full-x-145644942.html",
+        "archive_date": "August 06, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/06/20250806_213937.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6341824531555176
+            }
+        ],
+        "scores": {
+            "neg": 0.298,
+            "neu": 0.702,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "7cab732b4576424bed0ac0818c02b26de6ca7c6eae98c6801823a1f11e712c00",
+        "scraped_at": "2026-03-02T02:09:10.751786"
+    },
+    {
+        "headline": "Cloud-seeding company becomes center of flood conspiracy...",
+        "article_url": "https://www.msn.com/en-us/weather/topstories/ar-AA1IZluE",
+        "archive_date": "July 21, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/21/20250721_211137.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.37994661927223206
+            }
+        ],
+        "scores": {
+            "neg": 0.362,
+            "neu": 0.638,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "519f6985ddfa149f8554db46bb6f8a976872450074519863879f6dc4cec53f6e",
+        "scraped_at": "2026-03-02T02:09:10.786758"
+    },
+    {
+        "headline": "Weather conspiracy theories move from online fringes to state laws...",
+        "article_url": "https://www.msn.com/en-us/news/us/how-weather-conspiracy-theories-moved-from-online-fringes-to-state-laws/ar-AA1IHHNl",
+        "archive_date": "July 16, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/16/20250716_104037.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8442680835723877
+            }
+        ],
+        "scores": {
+            "neg": 0.274,
+            "neu": 0.726,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "279633c37b211011141b7132b360ae218a2ae9304879690052bc7872e1f8617b",
+        "scraped_at": "2026-03-02T02:09:10.821710"
+    },
+    {
+        "headline": "Conspiracy theories back to bite...",
+        "article_url": "https://www.cnn.com/2025/07/14/media/trump-maga-media-epstein-files-conspiracy-bondi",
+        "archive_date": "July 15, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/15/20250715_115139.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.5813653469085693
+            }
+        ],
+        "scores": {
+            "neg": 0.459,
+            "neu": 0.541,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "f984250ed4f7ac1932d91c1af1453573a9176c87e053979e28aacc31428a64aa",
+        "scraped_at": "2026-03-02T02:09:10.860438"
+    },
+    {
+        "headline": "Kash Caves: Decries 'Conspiracy Theories'...",
+        "article_url": "https://www.msn.com/en-us/news/politics/ar-AA1Iu6Eb",
+        "archive_date": "July 13, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/13/20250713_134039.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6741396188735962
+            }
+        ],
+        "scores": {
+            "neg": 0.459,
+            "neu": 0.541,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "b164108452525c6b6268cb40dab918001e2e8924a424e3caf24b0e3c9121c599",
+        "scraped_at": "2026-03-02T02:09:10.895678"
+    },
+    {
+        "headline": "He seeded clouds over Texas. Then came the conspiracy theories...",
+        "article_url": "https://www.msn.com/en-us/news/us/ar-AA1Il1cA",
+        "archive_date": "July 10, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/10/20250710_211209.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7554845213890076
+            }
+        ],
+        "scores": {
+            "neg": 0.274,
+            "neu": 0.726,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "01b65bbb10214bc25d347fac9413580532c65804b9f067476ed7c786a697635a",
+        "scraped_at": "2026-03-02T02:09:10.932100"
+    },
+    {
+        "headline": "JURY REACHES MIXED VERDICT IN 'DIDDY' TRIAL... DEVELOPING...\r\nNOT GUILTY ON RACKETEERING...\r\nNOT GUILTY ON TRAFFICKING CONSPIRACY...",
+        "article_url": "https://www.nbcnews.com/news/us-news/live-blog/sean-combs-diddy-trial-case-verdict-live-updates-rcna216289",
+        "archive_date": "July 02, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/02/20250702_142117.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.48551154136657715
+            }
+        ],
+        "scores": {
+            "neg": 0.149,
+            "neu": 0.525,
+            "pos": 0.326,
+            "compound": 0.2649
+        },
+        "hash": "d932e40731b71a4fd4e4b3bf133acb01780b0d8f4705227516ae0fb6bf6854e5",
+        "scraped_at": "2026-03-02T02:09:11.000486"
+    },
+    {
+        "headline": "Colombia president hints at conspiracy after candidate shot...",
+        "article_url": "https://www.barrons.com/news/colombia-president-hints-at-conspiracy-after-candidate-shot-09734acd",
+        "archive_date": "June 10, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/06/10/20250610_002740.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.47862759232521057
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "1f27226a719a462934c2980774a79f9d0715a03924a8542d9081852b268c0a77",
+        "scraped_at": "2026-03-02T02:09:11.036814"
+    },
+    {
+        "headline": "The Dark Conspiracy Where Elon Destroys The Don...",
+        "article_url": "https://www.msn.com/en-us/politics/government/ar-AA1GceZh",
+        "archive_date": "June 06, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/06/06/20250606_212239.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6310536861419678
+            }
+        ],
+        "scores": {
+            "neg": 0.538,
+            "neu": 0.462,
+            "pos": 0.0,
+            "compound": -0.7906
+        },
+        "hash": "2bbf559644a46279b621755b37c0a9a8e14e26aa7ef703afbc5c731cd43f830c",
+        "scraped_at": "2026-03-02T02:09:11.085824"
+    },
+    {
+        "headline": "Russia's top secret nuke facilities exposed in massive conspiracy breach... Developing...",
+        "article_url": "https://danwatch.dk/en/serious-security-breach-russian-nuclear-facilities-exposed/",
+        "archive_date": "May 30, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/05/30/20250530_174039.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5562015771865845
+            }
+        ],
+        "scores": {
+            "neg": 0.324,
+            "neu": 0.552,
+            "pos": 0.124,
+            "compound": -0.4404
+        },
+        "hash": "22516cf3aa2b74ff3017481ccf03ef33ee52b46ab19bbd32a7c5bfe9fdf5f0ed",
+        "scraped_at": "2026-03-02T02:09:11.125241"
+    },
+    {
+        "headline": "Oklahoma high schools to teach 2020 election conspiracy theories -- as fact...",
+        "article_url": "https://www.theguardian.com/us-news/2025/may/17/oklahoma-high-schools-election-conspiracy-theories",
+        "archive_date": "May 18, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/05/18/20250518_213540.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6957226991653442
+            }
+        ],
+        "scores": {
+            "neg": 0.236,
+            "neu": 0.764,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "6800b79dd7d3ac634d6893c84deabb280f8c18cc562e08590af2f67078771d8c",
+        "scraped_at": "2026-03-02T02:09:11.161744"
+    },
+    {
+        "headline": "Police raid conspiracy theorist group 'Kingdom of Germany'...",
+        "article_url": "https://www.france24.com/en/live-news/20250513-police-raid-conspiracy-theorist-group-kingdom-of-germany",
+        "archive_date": "May 13, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/05/13/20250513_132740.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.5832623839378357
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "091a439aff925fc53371f8b1fb5648ab71869a890aef7954688eec1b6de4df44",
+        "scraped_at": "2026-03-02T02:09:11.197415"
+    },
+    {
+        "headline": "President Return to Power Elevates Ever Fringier Conspiracy Theories...",
+        "article_url": "https://archive.is/83U0h",
+        "archive_date": "May 06, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/05/06/20250506_202443.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.49728208780288696
+            }
+        ],
+        "scores": {
+            "neg": 0.298,
+            "neu": 0.702,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "3d71917168d421279b5a50c962d2deabd34e7d12f2cdf0e0df928267bc6caadc",
+        "scraped_at": "2026-03-02T02:09:11.260146"
+    },
+    {
+        "headline": "Virginia Guiffre's old social media post claiming NOT suicidal sparks conspiracy theories...\r\n\r\nBecomes Epstein's third victim to die...",
+        "article_url": "https://www.dailymail.co.uk/news/article-14652325",
+        "archive_date": "April 27, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/27/20250427_131847.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.3069900870323181
+            }
+        ],
+        "scores": {
+            "neg": 0.228,
+            "neu": 0.531,
+            "pos": 0.241,
+            "compound": 0.0941
+        },
+        "hash": "c406b044e6a4ec42d5d055556697368e8f5c72666ef77fcedd9ca0dc74e18796",
+        "scraped_at": "2026-03-02T02:09:11.306545"
+    },
+    {
+        "headline": "JD Vance's meeting with Pope before his death sparks conspiracy theories...",
+        "article_url": "https://www.msn.com/en-in/news/world/ar-AA1DjhUw",
+        "archive_date": "April 21, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/21/20250421_214456.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.42588555812835693
+            }
+        ],
+        "scores": {
+            "neg": 0.448,
+            "neu": 0.552,
+            "pos": 0.0,
+            "compound": -0.8074
+        },
+        "hash": "762b18f15b73cfe2a6d903bc0c9b652083843bf21c1041b3de28a4f6c0a53b73",
+        "scraped_at": "2026-03-02T02:09:11.341653"
+    },
+    {
+        "headline": "Republican Senator Pushes Conspiracy Theory That 9/11 Was Inside Job...",
+        "article_url": "https://www.mediaite.com/news/gop-senator-pushes-conspiracy-theory-that-9-11-was-an-inside-job-my-eyes-have-been-opened/",
+        "archive_date": "April 21, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/21/20250421_191650.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6135112643241882
+            }
+        ],
+        "scores": {
+            "neg": 0.274,
+            "neu": 0.726,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "1efd826b73d77bf5feee54f3ffdf4005170590a2f0d9ad8c7f42844403934779",
+        "scraped_at": "2026-03-02T02:09:11.379410"
+    },
+    {
+        "headline": "Elon and Don keep fanning flames of Fort Knox gold conspiracy...",
+        "article_url": "https://www.nbcnews.com/tech/rcna199354",
+        "archive_date": "April 09, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/09/20250409_213840.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.8347243070602417
+            }
+        ],
+        "scores": {
+            "neg": 0.254,
+            "neu": 0.746,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "c36da7dfbcb7978c3ec23e09f6311e326973e180e1fee77282bd454c5de5f635",
+        "scraped_at": "2026-03-02T02:09:11.419890"
+    },
+    {
+        "headline": "The Conspiracy Theorist Advising Don...",
+        "article_url": "https://archive.is/8fhAG",
+        "archive_date": "April 04, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/04/20250404_125843.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6735549569129944
+            }
+        ],
+        "scores": {
+            "neg": 0.459,
+            "neu": 0.541,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "ebaa5fa8061fc59b27e6b3ada210fec3dad7952350f85e0e9048f0f37095b53c",
+        "scraped_at": "2026-03-02T02:09:11.456040"
+    },
+    {
+        "headline": "The absurd Brigitte Macron conspiracy theory sweeping America...",
+        "article_url": "https://www.telegraph.co.uk/news/2025/03/19/brigitte-macron-candace-owens-tucker-carlson-transgender/",
+        "archive_date": "March 20, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/20/20250320_105142.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.33609074354171753
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "619ee4aea2d038fadf2a40aa05e49dc4932b8a0a879fd6d076554cfba8dae63b",
+        "scraped_at": "2026-03-02T02:09:11.493140"
+    },
+    {
+        "headline": "STUDY: Poor Sleep Fuels Belief In Conspiracy Theories...",
+        "article_url": "https://studyfinds.org/poor-sleep-conspiracy-theories/",
+        "archive_date": "March 17, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/17/20250317_210450.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5220528244972229
+            }
+        ],
+        "scores": {
+            "neg": 0.52,
+            "neu": 0.48,
+            "pos": 0.0,
+            "compound": -0.7579
+        },
+        "hash": "55848dd5b29a3165ab869239d8ad2db266de2f9f64cb7ac9b4bde1388d2179b5",
+        "scraped_at": "2026-03-02T02:09:11.530592"
+    },
+    {
+        "headline": "Pentagon official prolific purveyor of antisemitic conspiracy theories...",
+        "article_url": "https://jewishinsider.com/2025/03/pentagon-deputy-press-secretary-kingsley-wilson-is-a-prolific-purveyor-of-antisemitic-conspiracy-theories-online/",
+        "archive_date": "March 05, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/05/20250305_202640.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "disgust",
+                "score": 0.7239921689033508
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "798f4a2faa6158ad5ffd60f05375edfea6ee47a2127691571fb1ca08ec6d733a",
+        "scraped_at": "2026-03-02T02:09:11.572780"
+    },
+    {
+        "headline": "Why Do People Believe Conspiracy Theories? For Many, Simply Out Of Spite...",
+        "article_url": "https://studyfinds.org/conspiracy-theories-spite/",
+        "archive_date": "March 04, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/04/20250304_185453.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7143117785453796
+            }
+        ],
+        "scores": {
+            "neg": 0.405,
+            "neu": 0.595,
+            "pos": 0.0,
+            "compound": -0.7783
+        },
+        "hash": "22707dee7ca7cf6ffc83568e350efad76d0cf552ce9fa79f7d4905ce9661660c",
+        "scraped_at": "2026-03-02T02:09:11.620776"
+    },
+    {
+        "headline": "President Amplifies Conspiracy Theory Over Payments to POLITICO...",
+        "article_url": "https://dnyuz.com/2025/02/06/trump-amplifies-conspiracy-theory-over-payments-to-politico/",
+        "archive_date": "February 06, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/02/06/20250206_152142.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5026858448982239
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "7cf2d4e6a01db5484f7eaab4ea506de6b448b0d79475a2e1e5aaca00c37b342a",
+        "scraped_at": "2026-03-02T02:09:11.659461"
+    },
+    {
+        "headline": "Talent or 'Tayvoodoo'? CHIEFS Kick Off Super Bowl for Conspiracy Theorists...",
+        "article_url": "https://www.wsj.com/sports/football/kansas-city-chiefs-tayvoodoo-super-bowl-conspiracy-f01013fe",
+        "archive_date": "January 30, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/01/30/20250130_131241.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7852784395217896
+            }
+        ],
+        "scores": {
+            "neg": 0.188,
+            "neu": 0.442,
+            "pos": 0.37,
+            "compound": 0.5106
+        },
+        "hash": "576cf6d7566298cf8f4fccf662293e99c71b587ec0c8bf27e516a632a993f7db",
+        "scraped_at": "2026-03-02T02:09:11.702021"
+    },
+    {
+        "headline": "More wild conspiracy theories spread...",
+        "article_url": "https://metro.co.uk/2025/01/10/la-wildfires-spark-conspiracy-theories-around-smart-city-plot-22339711/",
+        "archive_date": "January 11, 2025",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/01/11/20250111_135146.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7624858021736145
+            }
+        ],
+        "scores": {
+            "neg": 0.479,
+            "neu": 0.521,
+            "pos": 0.0,
+            "compound": -0.5688
+        },
+        "hash": "ef9d599465e8e70016bb1cd6100725719f98cb57f1fb2bc3dfec11f210c9812e",
+        "scraped_at": "2026-03-02T02:09:11.736092"
+    },
+    {
+        "headline": "Conspiracy theories rampant...",
+        "article_url": "https://www.yahoo.com/news/great-tragedy-deadly-plane-crash-200943343.html",
+        "archive_date": "December 25, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/25/20241225_215240.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.45874178409576416
+            }
+        ],
+        "scores": {
+            "neg": 0.63,
+            "neu": 0.37,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "355df041d5988796505b2b5c9de3acc4bbcf43672308c845ffbef2e3ff648c63",
+        "scraped_at": "2026-03-02T02:09:11.767179"
+    },
+    {
+        "headline": "Why drone sightings have driven conspiracy theory delirium...",
+        "article_url": "https://www.msn.com/en-us/politics/government/ar-AA1wb1UP",
+        "archive_date": "December 19, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/19/20241219_194842.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.7971530556678772
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "2bdb8a850bc568fc530dcd6ff7a6f1cba49a81929ff38370c1dbe0df8a6b68ca",
+        "scraped_at": "2026-03-02T02:09:11.802269"
+    },
+    {
+        "headline": "Hegseth spread conspiracy theories that Jan 6 attack was carried out by leftist groups...",
+        "article_url": "https://www.cnn.com/2024/12/17/politics/kfile-pete-hegseth-conspiracy-theories-january-6/index.html",
+        "archive_date": "December 17, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/17/20241217_161952.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.38249003887176514
+            }
+        ],
+        "scores": {
+            "neg": 0.351,
+            "neu": 0.649,
+            "pos": 0.0,
+            "compound": -0.7579
+        },
+        "hash": "64b8683d01b8633047e6ad58903380a801708205181f374c6965e7fdc0f910d2",
+        "scraped_at": "2026-03-02T02:09:11.842079"
+    },
+    {
+        "headline": "DRONE CONSPIRACY THEORIES ABOUND...",
+        "article_url": "https://abcnews.go.com/US/story?id=116820553",
+        "archive_date": "December 16, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/16/20241216_235051.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7412595748901367
+            }
+        ],
+        "scores": {
+            "neg": 0.531,
+            "neu": 0.469,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "8e65059f94d795fc98e88158b0ced76d1f5c0f570010f4f71f7977cb09de7ed4",
+        "scraped_at": "2026-03-02T02:09:11.894245"
+    },
+    {
+        "headline": "CONSPIRACY THEORIES ABOUND",
+        "article_url": "https://abcnews.go.com/US/east-coast-drones-latest-somethings-new-jersey-mayor/story?id=116820553",
+        "archive_date": "December 16, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/16/20241216_142250.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8436410427093506
+            }
+        ],
+        "scores": {
+            "neg": 0.63,
+            "neu": 0.37,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "847dba4ab9168c79bb90d8ef400df214a9b857ea442229f61103eeace207ea23",
+        "scraped_at": "2026-03-02T02:09:11.935880"
+    },
+    {
+        "headline": "CONSPIRACY THEORIST ADVOCATED PROSECUTION SPREE",
+        "article_url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-kash-patel-fbi-director-b2656674.html",
+        "archive_date": "December 01, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/01/20241201_120848.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6790595054626465
+            }
+        ],
+        "scores": {
+            "neg": 0.688,
+            "neu": 0.312,
+            "pos": 0.0,
+            "compound": -0.765
+        },
+        "hash": "ba4eec0033551b6891fe19d8ea081fcc6ffb9bf225ff329910827a59e9b1ec46",
+        "scraped_at": "2026-03-02T02:09:11.974783"
+    },
+    {
+        "headline": "Conspiracy theorists claim Musk used satellites to steal election...",
+        "article_url": "https://www.telegraph.co.uk/business/2024/11/11/left-wing-conspiracy-theorists-elon-musk-satellites/",
+        "archive_date": "November 12, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/12/20241112_154951.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.52431720495224
+            }
+        ],
+        "scores": {
+            "neg": 0.485,
+            "neu": 0.515,
+            "pos": 0.0,
+            "compound": -0.765
+        },
+        "hash": "1e0fc4b3839d4d4a16d782413d3a7ce33c4ec8a9dbd83f98d67c65a84299d0df",
+        "scraped_at": "2026-03-02T02:09:12.012901"
+    },
+    {
+        "headline": "Drop-Off in Dem Votes Ignites Conspiracy Theories on Left and Right...",
+        "article_url": "https://dnyuz.com/2024/11/09/drop-off-in-democratic-votes-ignites-conspiracy-theories-on-left-and-right/",
+        "archive_date": "November 09, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/09/20241109_145445.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7859665751457214
+            }
+        ],
+        "scores": {
+            "neg": 0.254,
+            "neu": 0.746,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "5252ccf903e6d17f61c02a61eee380eb4937576f14ad7d6b0ff24f13c5d88cce",
+        "scraped_at": "2026-03-02T02:09:12.053243"
+    },
+    {
+        "headline": "Postmaster Delivered Ballots -- and Became Part of Conspiracy Theory...",
+        "article_url": "https://www.wsj.com/politics/elections/a-pennsylvania-postmaster-delivered-ballotsand-became-part-of-a-conspiracy-theory-d39c97e9",
+        "archive_date": "November 02, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/02/20241102_130245.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7322956323623657
+            }
+        ],
+        "scores": {
+            "neg": 0.274,
+            "neu": 0.726,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "b2e3eed3415931ab578e1e46f40e1447563bd6f2414b2c29d31d66d0cd4eb4c1",
+        "scraped_at": "2026-03-02T02:09:12.099376"
+    },
+    {
+        "headline": "Conspiracy theories and threats: The new reality in elections...",
+        "article_url": "https://www.barrons.com/news/conspiracy-theories-and-threats-the-new-reality-in-us-elections-ffeff510",
+        "archive_date": "October 27, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/27/20241027_011546.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.4937499463558197
+            }
+        ],
+        "scores": {
+            "neg": 0.47,
+            "neu": 0.53,
+            "pos": 0.0,
+            "compound": -0.7351
+        },
+        "hash": "ce4d3d803265c9d80ad1f0e3ae09fad91c8988dd75f147f59d8f5c2bf02d1780",
+        "scraped_at": "2026-03-02T02:09:12.146355"
+    },
+    {
+        "headline": "REPORT: X boosting election conspiracy theories with AI-powered trending topics...",
+        "article_url": "https://www.nbcnews.com/tech/misinformation/elon-musk-x-boosts-election-conspiracy-theories-ai-trends-twitter-rcna176941",
+        "archive_date": "October 26, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/26/20241026_234046.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8836737275123596
+            }
+        ],
+        "scores": {
+            "neg": 0.246,
+            "neu": 0.58,
+            "pos": 0.174,
+            "compound": -0.25
+        },
+        "hash": "39f926dde50e17c9d2534915232ce3d3db5c779e35f5435b0bff5ac6e0d85874",
+        "scraped_at": "2026-03-02T02:09:12.191471"
+    },
+    {
+        "headline": "How conspiracy-fueled group got foothold in hurricane-battered town...",
+        "article_url": "https://www.msn.com/en-us/news/us/ar-AA1sLXLe",
+        "archive_date": "October 23, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/23/20241023_204540.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.5670211315155029
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "98d4549aeca8edca50289810c57b9fc8fb7146e534625e477c4f48ad0d32e1a6",
+        "scraped_at": "2026-03-02T02:09:12.236600"
+    },
+    {
+        "headline": "Musk pushes debunked DOMINION voting conspiracy theory...",
+        "article_url": "https://www.nbcnews.com/tech/rcna175985",
+        "archive_date": "October 18, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/18/20241018_213244.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7435833811759949
+            }
+        ],
+        "scores": {
+            "neg": 0.362,
+            "neu": 0.638,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "ae51b683bd58edd3390b65d96efc8ab3d81859cd71353f53ab6c586599d06326",
+        "scraped_at": "2026-03-02T02:09:12.276200"
+    },
+    {
+        "headline": "Man Blames Trump for Father-in-Law Refusing Hurricane Help Over FEMA Conspiracy...",
+        "article_url": "https://www.mediaite.com/trump/emotional-north-carolina-man-blames-trump-for-maga-father-in-law-refusing-hurricane-help-over-fema-conspiracy-its-a-cult/",
+        "archive_date": "October 10, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/10/20241010_104541.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.4646918475627899
+            }
+        ],
+        "scores": {
+            "neg": 0.476,
+            "neu": 0.378,
+            "pos": 0.146,
+            "compound": -0.7269
+        },
+        "hash": "c739d42e0b2a50934001780f0abc021be8975b126a18aa2cfa3df4fe1d32f7b3",
+        "scraped_at": "2026-03-02T02:09:12.319203"
+    },
+    {
+        "headline": "Chris Wallace on Why He Left FOX: 'Conspiracy and Lies'...",
+        "article_url": "https://www.mediaite.com/podcasts/cnns-chris-wallace-on-why-he-left-fox-news-i-have-a-problem-with-conspiracy-and-lies/",
+        "archive_date": "October 09, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/09/20241009_103939.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.4014168977737427
+            }
+        ],
+        "scores": {
+            "neg": 0.437,
+            "neu": 0.563,
+            "pos": 0.0,
+            "compound": -0.7351
+        },
+        "hash": "ca913699703865fdf9bae0455b04f496bd910235aa0e4141c235a7392f48a86d",
+        "scraped_at": "2026-03-02T02:09:12.376638"
+    },
+    {
+        "headline": "MTG Now Adding Lasers to Her Conspiracy...",
+        "article_url": "https://www.yahoo.com/news/marjorie-taylor-greene-now-adding-133428014.html",
+        "archive_date": "October 07, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/07/20241007_181549.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8013986349105835
+            }
+        ],
+        "scores": {
+            "neg": 0.362,
+            "neu": 0.638,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "321d7a5659042b2da330320fba1c7e957276523f60f598194336f1cd6fc6fbed",
+        "scraped_at": "2026-03-02T02:09:12.411554"
+    },
+    {
+        "headline": "Inside Traveling Conspiracy Show...",
+        "article_url": "https://www.yahoo.com/news/inside-tucker-carlson-traveling-conspiracy-173711814.html",
+        "archive_date": "September 26, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/26/20240926_104441.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6761655211448669
+            }
+        ],
+        "scores": {
+            "neg": 0.531,
+            "neu": 0.469,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "e03d7717a542e16e9413ddb5acaa95e05c4d508dd971cdf8bcdfd9976b6f55af",
+        "scraped_at": "2026-03-02T02:09:12.448048"
+    },
+    {
+        "headline": "DIRTY TRICKS: Trial begins in alleged Florida election conspiracy that tilted a Miami Senate race...",
+        "article_url": "https://www.yahoo.com/news/trial-begins-alleged-florida-election-093000860.html",
+        "archive_date": "September 17, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/17/20240917_040950.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.46425244212150574
+            }
+        ],
+        "scores": {
+            "neg": 0.436,
+            "neu": 0.564,
+            "pos": 0.0,
+            "compound": -0.8506
+        },
+        "hash": "391286d7d3e0c3f44ccbbaa811cd80448b3bc79565e6b6065446cf6934b91ceb",
+        "scraped_at": "2026-03-02T02:09:12.488714"
+    },
+    {
+        "headline": "Why AI is better than humans at talking people out of conspiracy theory beliefs...",
+        "article_url": "https://www.msn.com/en-us/health/wellness/ar-AA1qtcw0",
+        "archive_date": "September 13, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/13/20240913_205344.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7861145734786987
+            }
+        ],
+        "scores": {
+            "neg": 0.186,
+            "neu": 0.656,
+            "pos": 0.158,
+            "compound": -0.128
+        },
+        "hash": "873df1882bebdf1d9daea8ed5ab83bc173f53ac27c74a4bf1df2751643387196",
+        "scraped_at": "2026-03-02T02:09:12.525696"
+    },
+    {
+        "headline": "Town at center of conspiracy evacuates multiple schools...",
+        "article_url": "https://www.axios.com/2024/09/13/springfield-ohio-threats-closures-trump",
+        "archive_date": "September 13, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/13/20240913_193344.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5518857836723328
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "0b5cab40cbb244e4eb84964f5de669aa6fc765bf9895cdc4a119ea345ed3034b",
+        "scraped_at": "2026-03-02T02:09:12.561118"
+    },
+    {
+        "headline": "Ex-Bush Spox Rips Don For Taking 9/11 Conspiracy Theorist To 9/11 Memorial Event...",
+        "article_url": "https://www.mediaite.com/politics/ex-bush-spox-rips-trump-on-cnn-for-taking-9-11-conspiracy-theorist-and-lunatic-laura-loomer-to-9-11-memorial-event/",
+        "archive_date": "September 12, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/12/20240912_192642.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.715855598449707
+            }
+        ],
+        "scores": {
+            "neg": 0.221,
+            "neu": 0.779,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "42c906c8445be8870df79ccac65b0667dd66076f6f9d3a7dc966196c064ef481",
+        "scraped_at": "2026-03-02T02:09:12.605319"
+    },
+    {
+        "headline": "Melania believes conspiracy to assassinate her husband...",
+        "article_url": "https://www.yahoo.com/entertainment/melania-goes-full-truther-trump-131930690.html",
+        "archive_date": "September 10, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/10/20240910_154951.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.5723002552986145
+            }
+        ],
+        "scores": {
+            "neg": 0.362,
+            "neu": 0.638,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "2b669d8e6121d19e2cd8afb9ddd37622cc979eb8a24b0a4bb8181f8de4d24497",
+        "scraped_at": "2026-03-02T02:09:12.645697"
+    },
+    {
+        "headline": "Algeria blames trans controversy on 'Zionist conspiracy'...",
+        "article_url": "https://www.ynetnews.com/culture/article/rjomn215a",
+        "archive_date": "August 06, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/06/20240806_202951.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.4139925539493561
+            }
+        ],
+        "scores": {
+            "neg": 0.55,
+            "neu": 0.45,
+            "pos": 0.0,
+            "compound": -0.7269
+        },
+        "hash": "ef4e26eb08b0fcca1df307c85dcf9dbdef7046e5f0f2d6e49e62b31e86633bc4",
+        "scraped_at": "2026-03-02T02:09:12.694098"
+    },
+    {
+        "headline": "Biggest battleground county trying to quash election conspiracy theories...",
+        "article_url": "https://www.nbcnews.com/politics/rcna163802",
+        "archive_date": "July 31, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/31/20240731_114909.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6240179538726807
+            }
+        ],
+        "scores": {
+            "neg": 0.466,
+            "neu": 0.534,
+            "pos": 0.0,
+            "compound": -0.7269
+        },
+        "hash": "334563b373b83572adfbfc07a00f809237c01df87bb16b1b460d55b89ebc2425",
+        "scraped_at": "2026-03-02T02:09:12.735907"
+    },
+    {
+        "headline": "X boosts conspiracy theories that Biden is dead...",
+        "article_url": "https://www.nbcnews.com/tech/rcna163248",
+        "archive_date": "July 25, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/25/20240725_183957.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.35670706629753113
+            }
+        ],
+        "scores": {
+            "neg": 0.513,
+            "neu": 0.333,
+            "pos": 0.153,
+            "compound": -0.7506
+        },
+        "hash": "5e3fe325eb98e5bd7b4d8371ff15bf512a3b304a3e3e5821af60b1aabe1d16b8",
+        "scraped_at": "2026-03-02T02:09:12.777460"
+    },
+    {
+        "headline": "Conspiracy theories abound after IT crash...",
+        "article_url": "https://www.france24.com/en/technology/20240720-online-conspiracy-theories-abound-after-major-global-it-crash",
+        "archive_date": "July 20, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/20/20240720_143557.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.41229620575904846
+            }
+        ],
+        "scores": {
+            "neg": 0.604,
+            "neu": 0.396,
+            "pos": 0.0,
+            "compound": -0.7269
+        },
+        "hash": "582efa67a05cff0e3f2ed01d1edab344cf2498ceb55b55fe8a1ac50fab57eb16",
+        "scraped_at": "2026-03-02T02:09:12.975546"
+    },
+    {
+        "headline": "Conspiracy theories are very American tradition...",
+        "article_url": "https://www.thesun.co.uk/news/29295379",
+        "archive_date": "July 18, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/18/20240718_204657.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8114373683929443
+            }
+        ],
+        "scores": {
+            "neg": 0.405,
+            "neu": 0.595,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "2f6bc5360f40d276fadcb1db550d4a49d92a85208b7ff9beb62bd218d1f2e0c1",
+        "scraped_at": "2026-03-02T02:09:13.227217"
+    },
+    {
+        "headline": "WSJ: Quarantining the Conspiracy Swamps...",
+        "article_url": "https://www.wsj.com/articles/quarantining-the-conspiracy-swamps-biden-trump-congress-99cc8863",
+        "archive_date": "July 14, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/14/20240714_221220.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6127457618713379
+            }
+        ],
+        "scores": {
+            "neg": 0.459,
+            "neu": 0.541,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "57582c6ddd96d85798b46b9bc646a64945a40736f1a5f21b11855ab6379521a0",
+        "scraped_at": "2026-03-02T02:09:13.362116"
+    },
+    {
+        "headline": "Conservatives See Conspiracy...",
+        "article_url": "https://www.politico.com/news/magazine/2024/07/11/biden-age-conservatives-conspiracy-00167438",
+        "archive_date": "July 11, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/11/20240711_133257.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.3863711953163147
+            }
+        ],
+        "scores": {
+            "neg": 0.63,
+            "neu": 0.37,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "522e4e3a7494b9f0628ace77f60f60753edee7ca640b30dd610564c87b483e7f",
+        "scraped_at": "2026-03-02T02:09:13.396818"
+    },
+    {
+        "headline": "MAG: Conspiracy of silence that tried to protect...",
+        "article_url": "https://nymag.com/intelligencer/article/conspiracy-of-silence-to-protect-joe-biden.html",
+        "archive_date": "July 05, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/05/20240705_153156.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.7382917404174805
+            }
+        ],
+        "scores": {
+            "neg": 0.283,
+            "neu": 0.5,
+            "pos": 0.217,
+            "compound": -0.2023
+        },
+        "hash": "af608f01a602b12d18e670efdabb77c4e8b5f05d4161e8af4c743c296e9742fd",
+        "scraped_at": "2026-03-02T02:09:13.467655"
+    },
+    {
+        "headline": "PEW revises 'racial conspiracy theories' report after backlash...",
+        "article_url": "https://www.nbcnews.com/news/rcna157576",
+        "archive_date": "June 18, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/18/20240618_174056.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.8554856181144714
+            }
+        ],
+        "scores": {
+            "neg": 0.327,
+            "neu": 0.673,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "f3c88fe8e4fd26be248e4bbf83674e8d38bc86caef9e8a463e1aece9d5b8d563",
+        "scraped_at": "2026-03-02T02:09:13.521212"
+    },
+    {
+        "headline": "Republican gov nominee entertained conspiracy theories that U.S. gov behind attack on Pearl Harbor, death of General Patton...",
+        "article_url": "https://www.dailymail.co.uk/news/article-13499505",
+        "archive_date": "June 11, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/11/20240611_010356.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.3244650959968567
+            }
+        ],
+        "scores": {
+            "neg": 0.384,
+            "neu": 0.517,
+            "pos": 0.1,
+            "compound": -0.8271
+        },
+        "hash": "49e9b851b1115c269cb4d639cbaadae6db958f5fa99f6806a89fdc5213c5ccd6",
+        "scraped_at": "2026-03-02T02:09:13.578156"
+    },
+    {
+        "headline": "Nicki Minaj alleges racism and conspiracy against her after drug arrest in Amsterdam...",
+        "article_url": "https://www.msn.com/en-us/news/world/ar-BB1nmn3h",
+        "archive_date": "May 31, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/31/20240531_201557.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.8840770125389099
+            }
+        ],
+        "scores": {
+            "neg": 0.497,
+            "neu": 0.503,
+            "pos": 0.0,
+            "compound": -0.872
+        },
+        "hash": "b46361462fb61684d964baf4aa62c1fdc259351d193d83d22b17cd35cfa73bb7",
+        "scraped_at": "2026-03-02T02:09:13.617821"
+    },
+    {
+        "headline": "PAPER: Rappers who Trump invited on stage in Bronx have been indicted over conspiracy to commit murder!",
+        "article_url": "https://www.dailymail.co.uk/news/article-13458127",
+        "archive_date": "May 26, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/26/20240526_113256.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.683408796787262
+            }
+        ],
+        "scores": {
+            "neg": 0.341,
+            "neu": 0.569,
+            "pos": 0.089,
+            "compound": -0.8016
+        },
+        "hash": "785bce2bc07c3b22784acf5874d797484e102b3cec244b027e1a327595ff58b1",
+        "scraped_at": "2026-03-02T02:09:13.670985"
+    },
+    {
+        "headline": "Brazil's catastrophic weather spawns spate of conspiracy theories...",
+        "article_url": "https://www.yahoo.com/news/brazils-catastrophic-weather-spawns-spate-155035469.html",
+        "archive_date": "May 12, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/12/20240512_013756.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.5471658110618591
+            }
+        ],
+        "scores": {
+            "neg": 0.524,
+            "neu": 0.476,
+            "pos": 0.0,
+            "compound": -0.765
+        },
+        "hash": "a323bff5352d2643f4307742e0bafd129ceea3f75e42feaa759c5c7ac6b43028",
+        "scraped_at": "2026-03-02T02:09:13.718660"
+    },
+    {
+        "headline": "Squad Rep's YOUTUBE Page Is Conspiracy Theorist's Dream...",
+        "article_url": "https://sg.news.yahoo.com/squad-rep-youtube-page-conspiracy-083141195.html",
+        "archive_date": "May 08, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/08/20240508_184256.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7238671183586121
+            }
+        ],
+        "scores": {
+            "neg": 0.298,
+            "neu": 0.526,
+            "pos": 0.175,
+            "compound": -0.34
+        },
+        "hash": "5cec710330a461ace1f0ff06ee955521571a00a2a7624ea3f91b64cc125fb687",
+        "scraped_at": "2026-03-02T02:09:13.766513"
+    },
+    {
+        "headline": "Ex-President Floats Conspiracy: Keeping 'Freezing' Courthouse Cold 'On Purpose'...",
+        "article_url": "https://www.mediaite.com/trump/trump-floats-conspiracy-theory-they-are-keeping-freezing-new-york-courthouse-cold-on-purpose/",
+        "archive_date": "April 26, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/26/20240426_185957.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6783956289291382
+            }
+        ],
+        "scores": {
+            "neg": 0.407,
+            "neu": 0.593,
+            "pos": 0.0,
+            "compound": -0.5859
+        },
+        "hash": "b6bfa07e3a018ee44e1223d6c5b1d5a00aaf1b688106dbb2cf554b8252e541f7",
+        "scraped_at": "2026-03-02T02:09:13.817972"
+    },
+    {
+        "headline": "Criminal conspiracy and cover-up...",
+        "article_url": "https://www.yahoo.com/news/trump-trial-updates-prosecutors-say-trump-engaged-in-criminal-conspiracy-and-a-cover-up-defense-lawyers-call-it-democracy-170544845.html",
+        "archive_date": "April 22, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/22/20240422_222557.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.7034355401992798
+            }
+        ],
+        "scores": {
+            "neg": 0.9,
+            "neu": 0.1,
+            "pos": 0.0,
+            "compound": -0.8402
+        },
+        "hash": "0fbe3ff7f0c243df880a2d78173afed69df4dfd7926c00ae22bc5fcf54384edb",
+        "scraped_at": "2026-03-02T02:09:13.851402"
+    },
+    {
+        "headline": "'Conspiracy theorist' sets self on fire outside Trump trial...",
+        "article_url": "https://www.dailymail.co.uk/news/article-13329109/Man-sets-FIRE-outside-Trump-trial.html",
+        "archive_date": "April 20, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/20/20240420_183756.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.9370818734169006
+            }
+        ],
+        "scores": {
+            "neg": 0.453,
+            "neu": 0.547,
+            "pos": 0.0,
+            "compound": -0.7003
+        },
+        "hash": "1bb99ab58c9f4834a81af2c23e4e6ebbe279d8231617a368853257ceccfbe225",
+        "scraped_at": "2026-03-02T02:09:13.910931"
+    },
+    {
+        "headline": "ID'ed as conspiracy theorist...",
+        "article_url": "https://www.the-express.com/news/134988",
+        "archive_date": "April 19, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/19/20240419_193456.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7903188467025757
+            }
+        ],
+        "scores": {
+            "neg": 0.531,
+            "neu": 0.469,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "d99880baa205325e0695dae558e8facc186b293b9006f0b44da8273bc9e51b66",
+        "scraped_at": "2026-03-02T02:09:13.966166"
+    },
+    {
+        "headline": "Conspiracy theorists link quake to solar eclipse...",
+        "article_url": "https://www.the-sun.com/news/11012723/conspiracy-theory-new-york-city-earthquake-solar-eclipse/",
+        "archive_date": "April 06, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/06/20240406_022156.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.7633396983146667
+            }
+        ],
+        "scores": {
+            "neg": 0.362,
+            "neu": 0.638,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "8aa4b08864cb5c7c19d2e1c84269b779aa02468c743e453d35cf001a2868bc9a",
+        "scraped_at": "2026-03-02T02:09:15.951819"
+    },
+    {
+        "headline": "Solar eclipse conspiracy theory sweeps USA...",
+        "article_url": "https://www.the-sun.com/news/10977927",
+        "archive_date": "April 03, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/03/20240403_195155.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6180040836334229
+            }
+        ],
+        "scores": {
+            "neg": 0.405,
+            "neu": 0.595,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "abe20791dceb8bec8dd31428552211f4cda551f597574faac33b0aca62cada77",
+        "scraped_at": "2026-03-02T02:09:16.006652"
+    },
+    {
+        "headline": "Brigitte Macron's daughter on truth, conspiracy, and her unusual family...",
+        "article_url": "https://news.yahoo.com/mother-age-gap-love-teenage-164021085.html",
+        "archive_date": "March 30, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/30/20240330_203556.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5220939517021179
+            }
+        ],
+        "scores": {
+            "neg": 0.248,
+            "neu": 0.584,
+            "pos": 0.168,
+            "compound": -0.2732
+        },
+        "hash": "5f44ee430e8650fcdb6bb31629a571f879d8da47d7f6102be99a0cf094382537",
+        "scraped_at": "2026-03-02T02:09:16.070013"
+    },
+    {
+        "headline": "Kate Middleton Is Alive. But Conspiracy Theories Won't Die...",
+        "article_url": "https://www.wsj.com/world/uk/kate-middleton-is-alive-but-the-royal-conspiracy-theories-wont-die-5d2db801",
+        "archive_date": "March 20, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/20/20240320_103556.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.6542260646820068
+            }
+        ],
+        "scores": {
+            "neg": 0.277,
+            "neu": 0.361,
+            "pos": 0.362,
+            "compound": 0.1076
+        },
+        "hash": "d6e3141fb7072048753009dafdfe427598c359359545515e887a1c4842ce4254",
+        "scraped_at": "2026-03-02T02:09:16.366476"
+    },
+    {
+        "headline": "Conservative activist who spread conspiracy theories won't be getting RNC job...",
+        "article_url": "https://www.nbcnews.com/politics/rcna144144",
+        "archive_date": "March 19, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/19/20240319_212356.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.5921049118041992
+            }
+        ],
+        "scores": {
+            "neg": 0.254,
+            "neu": 0.746,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "f9cd7c2ce6d3b4511df71245e15cccb1df2cb00fee2d973032b035930ac2d1d5",
+        "scraped_at": "2026-03-02T02:09:16.748093"
+    },
+    {
+        "headline": "Conspiracy Claims BOEING Accidents 'Intentional'...",
+        "article_url": "https://www.wired.com/story/boeing-accidents-far-right-dei-conspiracy/",
+        "archive_date": "March 16, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/16/20240316_132155.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.395210325717926
+            }
+        ],
+        "scores": {
+            "neg": 0.655,
+            "neu": 0.345,
+            "pos": 0.0,
+            "compound": -0.6908
+        },
+        "hash": "7449b32853d4b5b1edf93b3caa166db3fa580bbcacaa51e6aec74e10ba28c175",
+        "scraped_at": "2026-03-02T02:09:16.879879"
+    },
+    {
+        "headline": "CNN: RFK Jr.'s VP prospect Aaron Rodgers shared false conspiracy theories in private...",
+        "article_url": "https://www.cnn.com/2024/03/13/politics/aaron-rodgers-sandy-hook-conspiracy-theories/index.html",
+        "archive_date": "March 13, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/13/20240313_215955.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6493517160415649
+            }
+        ],
+        "scores": {
+            "neg": 0.189,
+            "neu": 0.556,
+            "pos": 0.256,
+            "compound": 0.0516
+        },
+        "hash": "5e6f7948161fb8328cb867895e6867aff9eabceecffed2d9f5e3cdbaea9f6cc4",
+        "scraped_at": "2026-03-02T02:09:17.067803"
+    },
+    {
+        "headline": "Claims about Idaho 'harmful' books rooted in QANON conspiracy theory...",
+        "article_url": "https://www.msn.com/en-us/news/us/ar-BB1jOlc6",
+        "archive_date": "March 13, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/13/20240313_181855.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.39109256863594055
+            }
+        ],
+        "scores": {
+            "neg": 0.274,
+            "neu": 0.726,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "77398671c14d92b69db245b1e3b23c783cb10194a9ba83c3939f5f86e667d9da",
+        "scraped_at": "2026-03-02T02:09:17.205217"
+    },
+    {
+        "headline": "Conspiracy theories gain new life as '24 unfolds...",
+        "article_url": "https://www.france24.com/en/live-news/20240304-conspiracy-theories-gain-new-life-as-us-campaign-unfolds",
+        "archive_date": "March 04, 2024",
+        "edition_time": "16:45:29",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/04/20240304_161255.htm",
+        "query_name": "conspiracy theor",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8719252347946167
+            }
+        ],
+        "scores": {
+            "neg": 0.266,
+            "neu": 0.469,
+            "pos": 0.266,
+            "compound": 0.0
+        },
+        "hash": "d4ece7e9958dfb5d00886ac082dd98bf41a73c8752364685e884467c44e0d9d3",
+        "scraped_at": "2026-03-02T02:09:17.248201"
+    },
+    {
+        "headline": "NASA cancels moon landing mission...",
+        "article_url": "https://futurism.com/space/nasa-cancels-moon-landing-mission",
+        "archive_date": "February 27, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/02/27/20260227_180639.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8929442167282104
+            }
+        ],
+        "scores": {
+            "neg": 0.322,
+            "neu": 0.678,
+            "pos": 0.0,
+            "compound": -0.2263
+        },
+        "hash": "b987e7a2767d1e025a464c0a2039934d861d6598fcfb872a6b8bbd7c853e75e6",
+        "scraped_at": "2026-03-02T02:09:18.030199"
+    },
+    {
+        "headline": "Bezos and Musk in Billionaire Battle for Moon...",
+        "article_url": "https://www.wsj.com/science/space-astronomy/elon-musk-jeff-bezos-moon-race-89a511ab",
+        "archive_date": "February 15, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/02/15/20260215_162640.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6457545757293701
+            }
+        ],
+        "scores": {
+            "neg": 0.271,
+            "neu": 0.729,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "hash": "29305e730458cf4d3a4682e80f6d54aeabcbf3ef0bcc368d3a80602cd08addc5",
+        "scraped_at": "2026-03-02T02:09:18.082895"
+    },
+    {
+        "headline": "MARS CAN WAIT: Now Musk wants to build satellite catapult on MOON...",
+        "article_url": "https://metro.co.uk/2026/02/12/elon-musk-wants-build-a-satellite-catapult-moon-26848872/",
+        "archive_date": "February 12, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/02/12/20260212_180039.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5982837080955505
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "99f32a78c0b9d458f9e19bfeadbd045e2c10558ecdaaa892105b9888f2f9dca2",
+        "scraped_at": "2026-03-02T02:09:18.131653"
+    },
+    {
+        "headline": "Erratic Musk Tells Employees to Build Massive Catapult on Moon...",
+        "article_url": "https://futurism.com/space/elon-musk-catapult-moon",
+        "archive_date": "February 11, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/02/11/20260211_204938.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7924993634223938
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "488569156a2b6540c2c287da32a0c727d41961dac17d8ca02fc3473afeb3eb09",
+        "scraped_at": "2026-03-02T02:09:18.205041"
+    },
+    {
+        "headline": "NASA to send people to moon in spacecraft not everyone thinks is safe to fly...",
+        "article_url": "https://www.cnn.com/2026/01/23/science/artemis-2-orion-capsule-heat-shield",
+        "archive_date": "January 23, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/23/20260123_142339.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.4017702341079712
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.828,
+            "pos": 0.172,
+            "compound": 0.4404
+        },
+        "hash": "d08e5a7e3bf332fb133ad90c71a0f5cc7070bb828cab50299fa2911f142f89df",
+        "scraped_at": "2026-03-02T02:09:18.264121"
+    },
+    {
+        "headline": "You Can Now Reserve Hotel Room on Moon -- If You Can Afford It...",
+        "article_url": "https://www.vice.com/en/article/you-can-now-reserve-a-hotel-room-on-the-moon-if-you-can-afford-it/",
+        "archive_date": "January 15, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/15/20260115_190539.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9339240789413452
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "3b19cfee12578101507777d02d76b6a23e655800ce31c905e8d6e7737faccc02",
+        "scraped_at": "2026-03-02T02:09:18.323886"
+    },
+    {
+        "headline": "4 astronauts soon headed back to moon...\r\n\r\nNASA weeks away from biggest test in decades...",
+        "article_url": "https://archive.is/gsh0x",
+        "archive_date": "December 31, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/31/20251231_210238.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6241086721420288
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "8e6e8dea22c998231a6a1cf825440b4ca4082bffc58373728ab1c50ba28f49bd",
+        "scraped_at": "2026-03-02T02:09:18.379113"
+    },
+    {
+        "headline": "SPACE RACE: Russia plans to build nuclear power plant on moon in next few years...",
+        "article_url": "https://www.independent.co.uk/b2890010.html",
+        "archive_date": "December 24, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/24/20251224_223238.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6630669832229614
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "e6d29d165a04ccdd3e05cf57aa214424ad707d7c862d664bb82659f925aeef75",
+        "scraped_at": "2026-03-02T02:09:18.424280"
+    },
+    {
+        "headline": "How Bezos Plans to Beat SPACEX to the Moon...",
+        "article_url": "https://www.wsj.com/business/blue-origin-moon-mission-plan-spacex-9c6b9595",
+        "archive_date": "December 03, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/03/20251203_113538.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7420576810836792
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "4a3f85459979e11b095243db302106cc6c36efb09063b4e0392991f7c0314f4c",
+        "scraped_at": "2026-03-02T02:09:18.464283"
+    },
+    {
+        "headline": "Kardashian Insists Moon Landing Fake...",
+        "article_url": "https://people.com/kim-kardashian-insists-the-1969-moon-landing-was-fake-11839390",
+        "archive_date": "October 31, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/10/31/20251031_104537.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.4539642333984375
+            }
+        ],
+        "scores": {
+            "neg": 0.437,
+            "neu": 0.563,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "hash": "e4535f010891c94929f643d31843d0ee9ea49339c9f9988f16f53d79070f8019",
+        "scraped_at": "2026-03-02T02:09:18.500376"
+    },
+    {
+        "headline": "Asteroid might be heading for the moon. Should we nuke it?",
+        "article_url": "https://www.nbcnews.com/science/rcna233992",
+        "archive_date": "October 01, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/10/01/20251001_212136.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "disgust",
+                "score": 0.3013492822647095
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "dacfe16bd585e4a0859e3338c973fd2abe6e349b3cbfda6d763920fc1cf8fdad",
+        "scraped_at": "2026-03-02T02:09:18.538133"
+    },
+    {
+        "headline": "Meet the astronauts who will fly to moon for first time in 53 years!",
+        "article_url": "https://www.thetimes.com/us/news-today/article/nasa-artermis-ii-mission-astronauts-b9r2c7t92",
+        "archive_date": "September 26, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/26/20250926_155236.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "joy",
+                "score": 0.4924890995025635
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "eff76593a289c2e0ac60593e60317cb34005f73c9653f895cf8ac1cc85d68848",
+        "scraped_at": "2026-03-02T02:09:18.579223"
+    },
+    {
+        "headline": "NASA plans first crewed Moon mission in 50 years...",
+        "article_url": "https://www.bbc.com/news/articles/cy7pegvz17yo",
+        "archive_date": "September 23, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/23/20250923_183440.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.775120735168457
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "f3279602463ccedebce9348c3b242f6c6fd844d384f9e8b1d52565ccb4384d6e",
+        "scraped_at": "2026-03-02T02:09:18.618480"
+    },
+    {
+        "headline": "In race back to moon, U.S. and China see fast-approaching finish line...",
+        "article_url": "https://archive.is/havhq",
+        "archive_date": "September 21, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/21/20250921_100839.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7937619686126709
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "efb11b8cb242bcf8e4e9954fcc6877ac587ddee869ae218aa5d585eab7fa28c7",
+        "scraped_at": "2026-03-02T02:09:18.660064"
+    },
+    {
+        "headline": "USA Losing Return to Moon Race, Critics Say, Pointing at SPACEX...",
+        "article_url": "https://www.nytimes.com/2025/09/20/us/politics/spacex-us-moon-race.html?unlocked_article_code=1.nU8.84fO.g9cic2o5dLhI&smid=url-share",
+        "archive_date": "September 20, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/20/20250920_212839.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8832814693450928
+            }
+        ],
+        "scores": {
+            "neg": 0.348,
+            "neu": 0.652,
+            "pos": 0.0,
+            "compound": -0.5859
+        },
+        "hash": "80700cf7ea77e04e4a1ce3236f1ccb345f5dbee185b047510500f1391f724bab",
+        "scraped_at": "2026-03-02T02:09:18.712167"
+    },
+    {
+        "headline": "China Getting Ready to Land Astronauts on Moon...\r\n\r\nWhile NASA Flails Helplessly...",
+        "article_url": "https://futurism.com/china-land-astronauts-moon-beat-nasa",
+        "archive_date": "August 19, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/19/20250819_175238.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.5588067770004272
+            }
+        ],
+        "scores": {
+            "neg": 0.161,
+            "neu": 0.671,
+            "pos": 0.168,
+            "compound": 0.0258
+        },
+        "hash": "ab929d4933174ddcf96a39d0cf6b41a98ddbe8facc67aa1cffa6b5750be2b3ca",
+        "scraped_at": "2026-03-02T02:09:18.753492"
+    },
+    {
+        "headline": "NASA Chief issues directive to speed up moon reactor plans...",
+        "article_url": "https://www.independent.co.uk/news/world/americas/trump-nasa-sean-duffy-nuclear-reactor-moon-mars-b2801948.html",
+        "archive_date": "August 05, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/05/20250805_111738.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7572066187858582
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "de45d41fbec18a3934ce4c01f29d9551f2be430b005298b6e4b016ea99a06eb2",
+        "scraped_at": "2026-03-02T02:09:18.796257"
+    },
+    {
+        "headline": "USA to announce nuke reactor on moon...",
+        "article_url": "https://www.yahoo.com/news/articles/duffy-announce-nuclear-reactor-moon-205612475.html",
+        "archive_date": "August 04, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/04/20250804_211438.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.41241341829299927
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "1c547fe200c1504b37675d40d3a8f74ad55651417d7635f906dd935782ad16a4",
+        "scraped_at": "2026-03-02T02:09:18.829555"
+    },
+    {
+        "headline": "What happens if asteroid hits Moon?",
+        "article_url": "https://www.cnn.com/2025/07/25/science/asteroid-2024-yr4-potential-lunar-impact",
+        "archive_date": "July 26, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/26/20250726_124837.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.6591088771820068
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "81cf101febd1b8f29fbba33d4408015dbaa310c90dd91c9029f335194b899f97",
+        "scraped_at": "2026-03-02T02:09:18.858267"
+    },
+    {
+        "headline": "Denver dino museum makes find deep under own parking lot. Like'hole in one from the moon'...",
+        "article_url": "https://apnews.com/article/denver-museum-dinosaur-bone-fossil-parking-lot-a035df2d4c9b1cbcaa32137ebb4bfa2a",
+        "archive_date": "July 11, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/11/20250711_134705.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6193580627441406
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "9c7bd42918be0716535afb65f98b63ed10713bbfb9c6b671a5e25dcd23b1af0c",
+        "scraped_at": "2026-03-02T02:09:18.909148"
+    },
+    {
+        "headline": "Japan's historic moon landing may have failed as Mission Control goes silent...",
+        "article_url": "https://www.express.co.uk/news/2064958/",
+        "archive_date": "June 05, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/06/05/20250605_213939.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.48779046535491943
+            }
+        ],
+        "scores": {
+            "neg": 0.231,
+            "neu": 0.769,
+            "pos": 0.0,
+            "compound": -0.5106
+        },
+        "hash": "5157f5b5a82dd243f07a1aa0dc6e56fc77e739282d7087383b76f733f21fc490",
+        "scraped_at": "2026-03-02T02:09:18.968427"
+    },
+    {
+        "headline": "Private company wants to build city on moon...\r\nHigh-stakes lunar landing...",
+        "article_url": "https://abcnews.go.com/US/private-company-build-city-moon-land-probe/story?id=122515680",
+        "archive_date": "June 05, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/06/05/20250605_132939.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6433788537979126
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "c6ae16bed2552b4cb89f9a5f213582e83f1d365b425c10fa013bed533520f415",
+        "scraped_at": "2026-03-02T02:09:19.005535"
+    },
+    {
+        "headline": "Fly me to the moon, Mexico or Milan: How traveling builds trust...",
+        "article_url": "https://www.deseret.com/lifestyle/2025/05/25/silver-linings-how-travel-builds-trust/",
+        "archive_date": "May 26, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/05/26/20250526_193340.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7336718440055847
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.769,
+            "pos": 0.231,
+            "compound": 0.5106
+        },
+        "hash": "e78057418d7efb0452439347bd022f7bed784b2a6d0c273dae126eec74e3a442",
+        "scraped_at": "2026-03-02T02:09:19.040681"
+    },
+    {
+        "headline": "White House first 'new media' briefing hosts influencer 'convinced moon disappeared'...",
+        "article_url": "https://www.dailydot.com/debug/kambree-nelson-moon-white-house-press-briefing/",
+        "archive_date": "April 29, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/29/20250429_151852.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.30627351999282837
+            }
+        ],
+        "scores": {
+            "neg": 0.14,
+            "neu": 0.662,
+            "pos": 0.199,
+            "compound": 0.2023
+        },
+        "hash": "a4fca8ee577060c44f9b87e741329af3c0640710359ccfb37170eff0f4928e2c",
+        "scraped_at": "2026-03-02T02:09:19.089544"
+    },
+    {
+        "headline": "China plans nuke power plant on moon...",
+        "article_url": "https://www.thetimes.com/world/asia/article/china-moon-nuclear-power-plant-russia-rprwclfb2",
+        "archive_date": "April 23, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/23/20250423_200340.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6221318244934082
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "35fe19e6d1e0620913139cb0f187c75edfa94d3c0c786df77242514206613b61",
+        "scraped_at": "2026-03-02T02:09:19.127394"
+    },
+    {
+        "headline": "Pink Moon to light up sky...",
+        "article_url": "https://www.the-sun.com/tech/14010497/pink-moon-sky-spectacle/",
+        "archive_date": "April 12, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/12/20250412_163346.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "joy",
+                "score": 0.46117666363716125
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "b54baab6219b5c3fafd326917c0fdcf798ea347e8bd78dd0eec3e61b22e3d87a",
+        "scraped_at": "2026-03-02T02:09:19.156294"
+    },
+    {
+        "headline": "'Pink' moon rising this weekend!",
+        "article_url": "https://www.livescience.com/space/the-moon/aprils-full-pink-moon-rises-this-weekend-heres-how-to-see-it-and-why-its-so-special",
+        "archive_date": "April 10, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/10/20250410_161042.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "joy",
+                "score": 0.46314775943756104
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "6848e63b8eb6ef6a7694c211a61a4ae357a24171e9bd7136cc48a8a5fe5f139c",
+        "scraped_at": "2026-03-02T02:09:19.190608"
+    },
+    {
+        "headline": "'Pink full moon' to rise this weekend ahead of meteor shower...",
+        "article_url": "https://thehill.com/homenews/space/5241672-pink-full-moon-expected-to-rise/",
+        "archive_date": "April 10, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/10/20250410_115341.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8083690404891968
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "5e96f87225a91bd287cd2282854f68357ae9128dbfa0ae3297bea3c65a3d855a",
+        "scraped_at": "2026-03-02T02:09:19.229227"
+    },
+    {
+        "headline": "Moon moving away from earth and causing major changes in our time...",
+        "article_url": "https://www.the-express.com/news/168347",
+        "archive_date": "April 07, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/07/20250407_214650.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5162031054496765
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "8c2176ffcbb3d15b3e1657dcd72519faae7868f83dfe1e948c6dd16203b9f0c6",
+        "scraped_at": "2026-03-02T02:09:19.269273"
+    },
+    {
+        "headline": "Rising odds asteroid that briefly threatened Earth will hit Moon...",
+        "article_url": "https://www.barrons.com/news/rising-odds-asteroid-that-briefly-threatened-earth-will-hit-moon-2c0fc2d5",
+        "archive_date": "April 03, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/03/20250403_145842.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.9801836609840393
+            }
+        ],
+        "scores": {
+            "neg": 0.25,
+            "neu": 0.75,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "hash": "d79a34e831776ae31fa3e456c52cb79393513e318f069e8fefcae917dbd3ad3b",
+        "scraped_at": "2026-03-02T02:09:19.308093"
+    },
+    {
+        "headline": "First song broadcast from moon!",
+        "article_url": "https://www.mirror.co.uk/3am/us-celebrity-news/imagine-dragons-star-reveals-nerve-34921207",
+        "archive_date": "March 24, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/24/20250324_161350.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "joy",
+                "score": 0.5001859068870544
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "3eae12df712086ceb60474a3d0056aee318636b6cea1affd7dfd4a6c200cd37d",
+        "scraped_at": "2026-03-02T02:09:19.340598"
+    },
+    {
+        "headline": "TOTAL ECLIPSE 'BLOOD MOON'...",
+        "article_url": "https://www.space.com/total-lunar-eclipse-blood-worm-moon-best-photos",
+        "archive_date": "March 14, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/14/20250314_104644.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8247982263565063
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "ea4fdecb2fcbf95933f83e792efd07d334816dd2cd66c55e561b6cfad7f1f774",
+        "scraped_at": "2026-03-02T02:09:19.389512"
+    },
+    {
+        "headline": "First private US robotic lunar rover lands successfully on moon...",
+        "article_url": "https://www.theguardian.com/science/2025/mar/06/lunar-outpost-rover-moon-landing",
+        "archive_date": "March 06, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/06/20250306_205246.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5339537262916565
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.738,
+            "pos": 0.262,
+            "compound": 0.4939
+        },
+        "hash": "d665dda4f7f9f3bb3cb6c4e521da4c29d2166c2a6853ca2815ccbdf3cca57cc7",
+        "scraped_at": "2026-03-02T02:09:19.424450"
+    },
+    {
+        "headline": "SUNRISE ON THE MOON!",
+        "article_url": "https://www.space.com/the-universe/moon/sunrise-on-the-moon-private-blue-ghost-lander-captures-amazing-shot-after-historic-lunar-touchdown-photo",
+        "archive_date": "March 04, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/04/20250304_011351.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.3385404646396637
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "e2133db8b345b9fbf28f01f5889bf852bbda6f729bf3bae81967c79901c6f98a",
+        "scraped_at": "2026-03-02T02:09:19.464282"
+    },
+    {
+        "headline": "Privately built spacecraft successfully lands on moon...",
+        "article_url": "https://www.nbcnews.com/science/rcna193468",
+        "archive_date": "March 02, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/02/20250302_123348.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6729443073272705
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.652,
+            "pos": 0.348,
+            "compound": 0.4939
+        },
+        "hash": "5d505a847a30898f5cab4012f2cb2134611e78feeb7965985e9730e02abfadba",
+        "scraped_at": "2026-03-02T02:09:19.495767"
+    },
+    {
+        "headline": "Privately built spacecraft to attempt moon landing...",
+        "article_url": "https://www.nbcnews.com/science/space/moon-landing-blue-ghost-private-spacecraft-nasa-rcna193468",
+        "archive_date": "March 01, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/01/20250301_183346.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5945097208023071
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "c4f3f8b35bed1ecfe3fbecc64175524d16ef8ff041e79217b87ba5c982128479",
+        "scraped_at": "2026-03-02T02:09:19.576509"
+    },
+    {
+        "headline": "China to build igloos on Moon as they look to pull ahead in space race...",
+        "article_url": "https://www.the-express.com/news/world-news/156162/china-building-igloos-for-the-Moon",
+        "archive_date": "November 30, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/30/20241130_160746.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8425044417381287
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "136a3b5131103b017b7e7a121924da32334110f7876a46b0521bf221703091d0",
+        "scraped_at": "2026-03-02T02:09:19.775681"
+    },
+    {
+        "headline": "Thai gov't warns of possible attack at 'Full Moon' party...",
+        "article_url": "https://www.jpost.com/breaking-news/article-828749",
+        "archive_date": "November 12, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/12/20241112_150916.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.9469192624092102
+            }
+        ],
+        "scores": {
+            "neg": 0.317,
+            "neu": 0.493,
+            "pos": 0.19,
+            "compound": -0.2023
+        },
+        "hash": "837f99b1b3293876817d730a3e909fd4d936187d5383051ff35dbe26e3e13504",
+        "scraped_at": "2026-03-02T02:09:20.096782"
+    },
+    {
+        "headline": "AXIOM, PRADA Unveil Spacesuit Design for Moon Return...",
+        "article_url": "https://www.axiomspace.com/release/prada-axiom-suit",
+        "archive_date": "October 16, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/16/20241016_113039.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8170157074928284
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "25820fc4b6802d1eeba134e96019d3c9b68308ef535eb3bc911ac357423686f2",
+        "scraped_at": "2026-03-02T02:09:20.151534"
+    },
+    {
+        "headline": "Can icy Jupiter moon sustain life? Probe will investigate...",
+        "article_url": "https://www.msn.com/en-us/news/technology/can-an-icy-jupiter-moon-sustain-life-nasa-s-biggest-space-probe-will-investigate/ar-AA1s8Wsd",
+        "archive_date": "October 12, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/12/20241012_111945.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8330163359642029
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "44deaf2d6281b20d7911737a316437a08397d0c9e8d0eb7f1fbca1a8f2de522e",
+        "scraped_at": "2026-03-02T02:09:20.195802"
+    },
+    {
+        "headline": "Growing mushroom houses on moon? NASA's fungus-filled plan...",
+        "article_url": "https://www.aljazeera.com/features/2024/9/29/growing-mushroom-houses-on-the-moon-nasas-fungus-filled-plan",
+        "archive_date": "September 29, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/29/20240929_120247.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.4601922929286957
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.805,
+            "pos": 0.195,
+            "compound": 0.1779
+        },
+        "hash": "862731de9fff642a49766573abf94f46da9390f77437aa2706f10c5172c387c7",
+        "scraped_at": "2026-03-02T02:09:20.238137"
+    },
+    {
+        "headline": "NASA's Asteroid-Smashing Mission Permanently Knocked Moon Off Orbit?",
+        "article_url": "https://studyfinds.org/nasa-asteroid-moon-dart/",
+        "archive_date": "August 24, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/24/20240824_225746.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.723840057849884
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "e07fa8472c363a305f1bfed77d0316932f6edc72b11faa5170103930f03ad028",
+        "scraped_at": "2026-03-02T02:09:20.278326"
+    },
+    {
+        "headline": "Ancient ocean of magma found on Moon south pole...",
+        "article_url": "https://www.bbc.com/news/articles/cx2n0jgldn5o",
+        "archive_date": "August 21, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/21/20240821_184040.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6506205797195435
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "d865ad701ac83e51b8ca69930901cdfc467aba756cf19f86891c1c798a01c05c",
+        "scraped_at": "2026-03-02T02:09:20.316278"
+    },
+    {
+        "headline": "New Mission: How to Tell Time on Moon...",
+        "article_url": "https://www.wsj.com/science/space-astronomy/moon-time-nasa-mission-650b6c36",
+        "archive_date": "August 08, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/08/20240808_115841.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6775457859039307
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "90d95b09843efb616f241382cfeaffa6e624697dfccdbb521fae19258d141b23",
+        "scraped_at": "2026-03-02T02:09:20.362238"
+    },
+    {
+        "headline": "Scientists want to send frozen endangered animals to moon for safekeeping...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-13697141/frozen-samples-endangered-animals-MOON.html",
+        "archive_date": "August 01, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/01/20240801_110041.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6923840045928955
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.709,
+            "pos": 0.291,
+            "compound": 0.4019
+        },
+        "hash": "acb2b7187b54140eb6fa3b6f74e10f728453d57a4c6137622c7b6bf392e97317",
+        "scraped_at": "2026-03-02T02:09:20.405213"
+    },
+    {
+        "headline": "Is THIS how Moon will look in 2050?\r\n3D-printed cave homes, nuke power plant, lunar railway...",
+        "article_url": "https://www.the-sun.com/tech/11974346",
+        "archive_date": "July 21, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/21/20240721_105857.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7621570229530334
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "a191daf76916345820572668ba3b3f6b5a924c5f670d4459ba3383314cbdd6b3",
+        "scraped_at": "2026-03-02T02:09:20.445597"
+    },
+    {
+        "headline": "Scientists confirm moon cave to shelter future explorers...",
+        "article_url": "https://apnews.com/2dc57751f41a6e24f377c2259e8668ba",
+        "archive_date": "July 15, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/15/20240715_183656.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7447612285614014
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "75a674300fe97eb9430baafcff63adc7c813b6f9cc3188dc07532ac4e3cc2201",
+        "scraped_at": "2026-03-02T02:09:20.480585"
+    },
+    {
+        "headline": "Beijing Finds Something Strange in Sample Retrieved From Moon...",
+        "article_url": "https://www.yahoo.com/news/china-finds-something-strange-sample-172924134.html",
+        "archive_date": "June 27, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/27/20240627_191156.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.6088194847106934
+            }
+        ],
+        "scores": {
+            "neg": 0.184,
+            "neu": 0.816,
+            "pos": 0.0,
+            "compound": -0.2023
+        },
+        "hash": "3740a0e6d927df62e111f8c58c11173fce581685e4df198192d7fa20a1dc8bab",
+        "scraped_at": "2026-03-02T02:09:20.516283"
+    },
+    {
+        "headline": "Historic Moon Mission Moves China Ahead in Space Race...",
+        "article_url": "https://www.wsj.com/world/asia/historic-moon-mission-gets-china-one-small-step-ahead-in-space-race-41894d41",
+        "archive_date": "June 25, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/25/20240625_151256.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7756060361862183
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "15653b4c64ff4692b66edc95e5cd21e5c9fb167d9f27fadf8c507e9cdc3efdae",
+        "scraped_at": "2026-03-02T02:09:20.557043"
+    },
+    {
+        "headline": "Big Whack That Made Moon May Have Also Created Continents That Move...",
+        "article_url": "https://dnyuz.com/2024/06/12/a-big-whack-that-made-the-moon-may-have-also-created-continents-that-move/",
+        "archive_date": "June 12, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/12/20240612_110356.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.358293354511261
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.846,
+            "pos": 0.154,
+            "compound": 0.25
+        },
+        "hash": "9d6f05812b505a86f08249664646d52c96b325176160eee17bb9a35943de2d55",
+        "scraped_at": "2026-03-02T02:09:20.600530"
+    },
+    {
+        "headline": "Beijing probe lands on far side of Moon...",
+        "article_url": "https://www.yahoo.com/news/china-probe-successfully-lands-far-230310043.html",
+        "archive_date": "June 03, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/03/20240603_103856.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7617179751396179
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "831b4ce9659c7ab8fdfe117f8c441767b525ad8be3253174959e9c001f4280e9",
+        "scraped_at": "2026-03-02T02:09:20.647754"
+    },
+    {
+        "headline": "No one knows what time it is on moon. Scientists say it's urgent we figure it out...",
+        "article_url": "https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html",
+        "archive_date": "May 30, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/30/20240530_125856.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.669075071811676
+            }
+        ],
+        "scores": {
+            "neg": 0.116,
+            "neu": 0.789,
+            "pos": 0.095,
+            "compound": -0.1027
+        },
+        "hash": "cf97a3d555f5130286d08504a0dd98df043df9ed9a226ca1bcfe12593f8445bc",
+        "scraped_at": "2026-03-02T02:09:20.697970"
+    },
+    {
+        "headline": "NASA watchdog report: 100+ cracks on heat shield biggest threat to human moon mission...",
+        "article_url": "https://www.yahoo.com/tech/nasa-watchdog-report-100-cracks-163500997.html",
+        "archive_date": "May 10, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/10/20240510_110056.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.7204533815383911
+            }
+        ],
+        "scores": {
+            "neg": 0.207,
+            "neu": 0.793,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "afef11283f71720a8728cec2d502fe561db0bcae86e19796df65b4bee0f8c4af",
+        "scraped_at": "2026-03-02T02:09:20.736530"
+    },
+    {
+        "headline": "Beijing rocket to far side of Moon; Will grab mysterious rock...",
+        "article_url": "https://www.the-sun.com/tech/11266133/china-moon-rocket-space-launch-sample/",
+        "archive_date": "May 03, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/03/20240503_224955.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.4188905358314514
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "ba12d38261c944193e6ac74299c551cf4f516edb2fac0fe98e783d94f9023ef9",
+        "scraped_at": "2026-03-02T02:09:20.780595"
+    },
+    {
+        "headline": "Beijing launching high-stakes mission to moon's 'hidden' side...",
+        "article_url": "https://finance.yahoo.com/news/china-set-launch-high-stakes-032142819.html",
+        "archive_date": "April 29, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/29/20240429_033658.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7419165372848511
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "664dfde8d94039dcd65be892252d796c88c3d8259dec594c38db8eb60ef567b1",
+        "scraped_at": "2026-03-02T02:09:20.834897"
+    },
+    {
+        "headline": "NASA warns China may try to take over Moon!",
+        "article_url": "https://metro.co.uk/2024/04/19/nasa-warns-china-may-try-take-moon-20678702/",
+        "archive_date": "April 20, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/20/20240420_185155.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.8023061752319336
+            }
+        ],
+        "scores": {
+            "neg": 0.175,
+            "neu": 0.825,
+            "pos": 0.0,
+            "compound": -0.1759
+        },
+        "hash": "af1e6fe2590733f2b4deceaa2425163a9e4c98f6b612a35f612dcfda68565705",
+        "scraped_at": "2026-03-02T02:09:20.872118"
+    },
+    {
+        "headline": "Skyscrapers, fake moon: Saudi's $1 trillion ego trip comes crashing down...",
+        "article_url": "https://www.the-sun.com/news/11063239",
+        "archive_date": "April 12, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/12/20240412_103855.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.31543585658073425
+            }
+        ],
+        "scores": {
+            "neg": 0.237,
+            "neu": 0.763,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "hash": "17b223b83de79e09640e1c4e64dbd503b749d3fb41e3ccfe576549f629d0b2e3",
+        "scraped_at": "2026-03-02T02:09:20.920177"
+    },
+    {
+        "headline": "Astronaut landing on moon. For first time, won't be American...",
+        "article_url": "https://www.msn.com/en-us/news/world/ar-BB1lpECt",
+        "archive_date": "April 10, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/10/20240410_213556.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.5096336007118225
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "197f6243f465b41fcd9f78fa940c73268e84856759936f969df5c9008d23919f",
+        "scraped_at": "2026-03-02T02:09:20.968251"
+    },
+    {
+        "headline": "NASA SPOTS OBJECT SPEEDING AROUND MOON...",
+        "article_url": "https://futurism.com/the-byte/nasa-spots-object-speeding-around-moon",
+        "archive_date": "April 08, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/08/20240408_205656.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8896923065185547
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "c55169c8225b471d7fd1879ea4b1d217a654720710dd6ff8ae51d7b18667e86e",
+        "scraped_at": "2026-03-02T02:09:21.010487"
+    },
+    {
+        "headline": "White House directs NASA to create time standard for moon!",
+        "article_url": "https://www.yahoo.com/news/exclusive-white-house-directs-nasa-183828073.html",
+        "archive_date": "April 03, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/03/20240403_001856.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5933014750480652
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.79,
+            "pos": 0.21,
+            "compound": 0.3382
+        },
+        "hash": "6ed39ac6947b80d0adeaca702fbb7f120ab9fec4be3e3fbfc95070553d1baf5a",
+        "scraped_at": "2026-03-02T02:09:21.050815"
+    },
+    {
+        "headline": "Discs depicting 'essence of humanity' will be sent to Moon...",
+        "article_url": "https://www.yahoo.com/news/nasa-send-discs-depicting-essence-200120823.html",
+        "archive_date": "March 21, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/21/20240321_221956.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7258692383766174
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "7b4c754ef7d0b1a00b89fcd66e65e0e41c456ed705e2ef63889d1c067fc38f8a",
+        "scraped_at": "2026-03-02T02:09:21.096356"
+    },
+    {
+        "headline": "China moon plans worry Space Force...",
+        "article_url": "https://www.defenseone.com/threats/2024/03/chinas-moon-plans-worry-space-force/395043",
+        "archive_date": "March 19, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/19/20240319_193756.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.941386878490448
+            }
+        ],
+        "scores": {
+            "neg": 0.367,
+            "neu": 0.633,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "hash": "33b7ddbd1a87b0e57bd3942c897812f3befdb2292692aa883c5b809abeaa4bb8",
+        "scraped_at": "2026-03-02T02:09:21.127077"
+    },
+    {
+        "headline": "This company intends to be the first to mine the moon...",
+        "article_url": "https://www.msn.com/en-us/news/technology/this-company-intends-to-be-the-first-to-mine-the-moon/ar-BB1jP8Wh",
+        "archive_date": "March 13, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/13/20240313_131455.htm",
+        "query_name": "moon",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6650263667106628
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "b3c01c6e2ce5d73cc24225b633e2efb2065bee98de4f4e947f44d34acfc0ec14",
+        "scraped_at": "2026-03-02T02:09:21.167365"
+    },
+    {
+        "headline": "NASA cancels moon landing mission...",
+        "article_url": "https://futurism.com/space/nasa-cancels-moon-landing-mission",
+        "archive_date": "February 27, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/02/27/20260227_180639.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8929442167282104
+            }
+        ],
+        "scores": {
+            "neg": 0.322,
+            "neu": 0.678,
+            "pos": 0.0,
+            "compound": -0.2263
+        },
+        "hash": "b987e7a2767d1e025a464c0a2039934d861d6598fcfb872a6b8bbd7c853e75e6",
+        "scraped_at": "2026-03-02T02:09:21.835168"
+    },
+    {
+        "headline": "NASA jet erupts in flames as it skids down runway at Houston airport...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-15503341",
+        "archive_date": "January 27, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/27/20260127_211641.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.946373701095581
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "c65bf2e06e7e62ac568d4b99ddd6517879222359b24262d0abadb18adbbd457a",
+        "scraped_at": "2026-03-02T02:09:21.872649"
+    },
+    {
+        "headline": "NASA to send people to moon in spacecraft not everyone thinks is safe to fly...",
+        "article_url": "https://www.cnn.com/2026/01/23/science/artemis-2-orion-capsule-heat-shield",
+        "archive_date": "January 23, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/23/20260123_142339.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.4017702341079712
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.828,
+            "pos": 0.172,
+            "compound": 0.4404
+        },
+        "hash": "d08e5a7e3bf332fb133ad90c71a0f5cc7070bb828cab50299fa2911f142f89df",
+        "scraped_at": "2026-03-02T02:09:21.911239"
+    },
+    {
+        "headline": "NASA spacecraft leaves ISS in historic medical evacuation for ailing astronaut...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-15463545",
+        "archive_date": "January 14, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/14/20260114_224538.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.7673389315605164
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "f4779f0c59b74e4373c741b9bc8efe35ca36b786d82936ea5f4c064711389f9a",
+        "scraped_at": "2026-03-02T02:09:21.951682"
+    },
+    {
+        "headline": "Medical emergency on space station forces NASA to evacuate astronaut...",
+        "article_url": "https://www.cnbc.com/2026/01/08/nasa-iss-crew-11-astronauts-earth-medical-situation.html",
+        "archive_date": "January 08, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/08/20260108_222238.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.4896821677684784
+            }
+        ],
+        "scores": {
+            "neg": 0.224,
+            "neu": 0.776,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "hash": "61579ae1865bfde1c27d4aa96669c0183e99683fde686fafc3cf492499ccff65",
+        "scraped_at": "2026-03-02T02:09:22.039218"
+    },
+    {
+        "headline": "Medical emergency on space station forces NASA to consider astronaut evacuation...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-15445615/Medical-emergency-space-NASA-evacuation-astronauts-ISS.html",
+        "archive_date": "January 08, 2026",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2026/01/08/20260108_143338.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.8076218962669373
+            }
+        ],
+        "scores": {
+            "neg": 0.206,
+            "neu": 0.794,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "hash": "9fad4f80cdf9640e8ea087ada9da0d099b9c846f55a04f0229dc5189b8014cae",
+        "scraped_at": "2026-03-02T02:09:22.113429"
+    },
+    {
+        "headline": "4 astronauts soon headed back to moon...\r\n\r\nNASA weeks away from biggest test in decades...",
+        "article_url": "https://archive.is/gsh0x",
+        "archive_date": "December 31, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/31/20251231_210238.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6241086721420288
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "8e6e8dea22c998231a6a1cf825440b4ca4082bffc58373728ab1c50ba28f49bd",
+        "scraped_at": "2026-03-02T02:09:22.174590"
+    },
+    {
+        "headline": "Did Loomer help pick next leader of NASA?",
+        "article_url": "https://thehill.com/opinion/white-house/5645304-laura-loomer-china-moon/",
+        "archive_date": "December 14, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/12/14/20251214_004740.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8764893412590027
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.722,
+            "pos": 0.278,
+            "compound": 0.4019
+        },
+        "hash": "4106d04e76857ca3814a9f09302cdb45d82c65db00919430754ec8287ce981fe",
+        "scraped_at": "2026-03-02T02:09:22.214638"
+    },
+    {
+        "headline": "She saw car-sized object above Texas farm and found mass of NASA equipment...",
+        "article_url": "https://apnews.com/7463639a9a085d2ec7d1640776c85fa8",
+        "archive_date": "October 10, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/10/10/20251010_213637.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "disgust",
+                "score": 0.49680981040000916
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "0215e3ee9c69309ca5b91bb6c3df87aa56ce460f270a5d8334c19aed22e9a492",
+        "scraped_at": "2026-03-02T02:09:22.256081"
+    },
+    {
+        "headline": "NASA plans first crewed Moon mission in 50 years...",
+        "article_url": "https://www.bbc.com/news/articles/cy7pegvz17yo",
+        "archive_date": "September 23, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/23/20250923_183440.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.775120735168457
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "f3279602463ccedebce9348c3b242f6c6fd844d384f9e8b1d52565ccb4384d6e",
+        "scraped_at": "2026-03-02T02:09:22.312160"
+    },
+    {
+        "headline": "Sun 'waking up.' NASA doesn't know why...",
+        "article_url": "https://www.the-independent.com/b2828052.html",
+        "archive_date": "September 17, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/09/17/20250917_205938.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.670007050037384
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "324660c0175e3a8bf144c72260cef942c5b16e29f6544c2054e0238d506be662",
+        "scraped_at": "2026-03-02T02:09:22.363466"
+    },
+    {
+        "headline": "Can humans live on Mars? NASA intends to find out...",
+        "article_url": "https://www.thetimes.com/us/news-today/article/can-humans-live-on-mars-8rf6f38xw",
+        "archive_date": "August 26, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/26/20250826_103941.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8866667747497559
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "68ad8c04d633819a7adfe351a9cad07b5d487cde0428b67dfca56c7d57325081",
+        "scraped_at": "2026-03-02T02:09:22.400323"
+    },
+    {
+        "headline": "China Getting Ready to Land Astronauts on Moon...\r\n\r\nWhile NASA Flails Helplessly...",
+        "article_url": "https://futurism.com/china-land-astronauts-moon-beat-nasa",
+        "archive_date": "August 19, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/19/20250819_175238.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.5588067770004272
+            }
+        ],
+        "scores": {
+            "neg": 0.161,
+            "neu": 0.671,
+            "pos": 0.168,
+            "compound": 0.0258
+        },
+        "hash": "ab929d4933174ddcf96a39d0cf6b41a98ddbe8facc67aa1cffa6b5750be2b3ca",
+        "scraped_at": "2026-03-02T02:09:22.444809"
+    },
+    {
+        "headline": "White House Orders NASA to Destroy Important Satellite...",
+        "article_url": "https://futurism.com/white-house-orders-nasa-destroy-important-satellite",
+        "archive_date": "August 05, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/05/20250805_185638.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.7100135684013367
+            }
+        ],
+        "scores": {
+            "neg": 0.31,
+            "neu": 0.531,
+            "pos": 0.159,
+            "compound": -0.4019
+        },
+        "hash": "d0666dfdfbbf21912622f0b0aaeda4e3a1c31e26453e2bb3b8ab18f1cb26157c",
+        "scraped_at": "2026-03-02T02:09:22.485721"
+    },
+    {
+        "headline": "NASA Chief issues directive to speed up moon reactor plans...",
+        "article_url": "https://www.independent.co.uk/news/world/americas/trump-nasa-sean-duffy-nuclear-reactor-moon-mars-b2801948.html",
+        "archive_date": "August 05, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/08/05/20250805_111738.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7572066187858582
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "de45d41fbec18a3934ce4c01f29d9551f2be430b005298b6e4b016ea99a06eb2",
+        "scraped_at": "2026-03-02T02:09:22.526265"
+    },
+    {
+        "headline": "Hundreds of NASA Employees, Past and Present, Sign Letter of Formal Dissent...",
+        "article_url": "https://www.nytimes.com/2025/07/21/science/nasa-formal-dissent-letter-trump.html?unlocked_article_code=1.YE8.Vtol.vUyzuBwvKCgL&smid=url-share",
+        "archive_date": "July 21, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/21/20250721_131437.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.813130259513855
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "db24952ae96be6a4c7d5579dcb34f35053015ad4669dbb05eea01e4617486453",
+        "scraped_at": "2026-03-02T02:09:22.572635"
+    },
+    {
+        "headline": "NASA budget could cede solar system to Beijing, scientists warn...",
+        "article_url": "https://www.msn.com/en-us/technology/space-exploration/ar-AA1IbmVE",
+        "archive_date": "July 08, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/07/08/20250708_203041.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.779739260673523
+            }
+        ],
+        "scores": {
+            "neg": 0.135,
+            "neu": 0.865,
+            "pos": 0.0,
+            "compound": -0.1027
+        },
+        "hash": "e3ab7fdc8f587368cb4055c594590ab8bca9df7ca3fd772f7d4ca89297355293",
+        "scraped_at": "2026-03-02T02:09:22.615730"
+    },
+    {
+        "headline": "NASA, Pentagon push for SPACEX alternatives...",
+        "article_url": "https://www.msn.com/en-us/politics/government/ar-AA1GhdqB",
+        "archive_date": "June 08, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/06/08/20250608_115340.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7733364701271057
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "5d084973ea15766e0dabf70da3cd19b36e4d3c3f641b612c5e782f2b813b8191",
+        "scraped_at": "2026-03-02T02:09:22.650852"
+    },
+    {
+        "headline": "NASA Mars Perseverance snaps selfie as Martian dust devil blows by...",
+        "article_url": "https://www.nbcnews.com/science/rcna208342",
+        "archive_date": "May 21, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/05/21/20250521_201939.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.3061518669128418
+            }
+        ],
+        "scores": {
+            "neg": 0.306,
+            "neu": 0.694,
+            "pos": 0.0,
+            "compound": -0.6597
+        },
+        "hash": "ba8ae67ff53ea9528cf9f59b2314bd8c0c36c6fb69a0d1c386dba89b42bbf52b",
+        "scraped_at": "2026-03-02T02:09:22.687043"
+    },
+    {
+        "headline": "MUSK BREAKS WITH BOSS AGAIN; SLAMS NASA CUTS...",
+        "article_url": "https://www.msn.com/en-us/money/other/ar-AA1CLFtq",
+        "archive_date": "April 12, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/04/12/20250412_155511.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "anger",
+                "score": 0.638805091381073
+            }
+        ],
+        "scores": {
+            "neg": 0.239,
+            "neu": 0.761,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "hash": "692b163c22db521090b4f81240ed4e1237b10c4e5b02ed62d86ea68bd1777b30",
+        "scraped_at": "2026-03-02T02:09:22.726638"
+    },
+    {
+        "headline": "NASA stuck astronauts welcome newly arrived replacements to space station...",
+        "article_url": "https://apnews.com/e8e2d188bc4cd1bf36c3c41512d38fcb",
+        "archive_date": "March 16, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/03/16/20250316_123648.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5295709371566772
+            }
+        ],
+        "scores": {
+            "neg": 0.154,
+            "neu": 0.615,
+            "pos": 0.231,
+            "compound": 0.25
+        },
+        "hash": "ef0b93e7e5ca796ad63068e4e932b2508a838e6d17f95bab76212cebab4ca497",
+        "scraped_at": "2026-03-02T02:09:22.767098"
+    },
+    {
+        "headline": "The Thrill-Seeking Billionaire and SPACEX Astronaut Poised to Run NASA...",
+        "article_url": "https://www.wsj.com/business/nasa-spacex-trump-musk-isaacman-14c6aebc",
+        "archive_date": "February 22, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/02/22/20250222_141846.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "joy",
+                "score": 0.7325236797332764
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.818,
+            "pos": 0.182,
+            "compound": 0.25
+        },
+        "hash": "3c448ebfadf8f4cb3473b34a838c4a6bd0f083f6e612ea34bbadff559f8c16ae",
+        "scraped_at": "2026-03-02T02:09:22.815608"
+    },
+    {
+        "headline": "NASA to study 'city-killer' asteroid as odds of hitting Earth go up...",
+        "article_url": "https://www.cbsnews.com/news/city-killer-asteroid-odds-hitting-earth-increase-webb-telescope/",
+        "archive_date": "February 10, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/02/10/20250210_205051.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.7455164790153503
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "72f0b884d18febd91fe81535e1b12dbdf505a7c44deeeab159bdbbfe8c6fca23",
+        "scraped_at": "2026-03-02T02:09:22.964273"
+    },
+    {
+        "headline": "Stranded NASA astronaut says she's lost ability to perform vital bodily functions...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-14338015",
+        "archive_date": "January 31, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/01/31/20250131_220944.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.6739144325256348
+            }
+        ],
+        "scores": {
+            "neg": 0.146,
+            "neu": 0.57,
+            "pos": 0.285,
+            "compound": 0.296
+        },
+        "hash": "b3080df5a5ef7f9d9d2cf8ba9080a26110d73dd38407be953c4f84c751645dd0",
+        "scraped_at": "2026-03-02T02:09:23.193306"
+    },
+    {
+        "headline": "Are we all aliens? NASA samples hold ingredients of life from watery world...",
+        "article_url": "https://apnews.com/article/asteroid-bennu-nasa-sample-return-e3318592d16a53bea56c1ff689555f0d",
+        "archive_date": "January 30, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/01/30/20250130_135541.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8075106739997864
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "569d7368325e5306ac160f53bbfc8fda2d06587a62319445d3bc5dae3e588618",
+        "scraped_at": "2026-03-02T02:09:23.412963"
+    },
+    {
+        "headline": "NASA proposes cheaper, quicker way to get Mars rocks and soil to Earth...",
+        "article_url": "https://apnews.com/6b6028cd2866f41f39864717f70e979d",
+        "archive_date": "January 07, 2025",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2025/01/07/20250107_202945.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9155923128128052
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "9cadda45de31ed1a0a8a77f96517b425ae0203a25eef5895c61240a9b7f014eb",
+        "scraped_at": "2026-03-02T02:09:23.458026"
+    },
+    {
+        "headline": "NASA craft 'safe' after closest-ever approach to Sun...",
+        "article_url": "https://www.yahoo.com/news/nasa-spacecraft-safe-closest-ever-061724678.html",
+        "archive_date": "December 28, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/28/20241228_190346.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8679038286209106
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.707,
+            "pos": 0.293,
+            "compound": 0.4404
+        },
+        "hash": "9634ba929368e564887908368a76e4bc6d86fdff66454cb02c102cfe25e43e3f",
+        "scraped_at": "2026-03-02T02:09:23.503406"
+    },
+    {
+        "headline": "NASA spacecraft flies closer to Sun than any man-made object before...",
+        "article_url": "https://www.telegraph.co.uk/news/2024/12/24/nasa-spacecraft-attempts-closest-ever-pass-by-the-sun/",
+        "archive_date": "December 24, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/24/20241224_183853.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7121880650520325
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "88a5c708bb72593977544943ae1c88e61fd957056a7342f6b7551012e159eda3",
+        "scraped_at": "2026-03-02T02:09:23.552289"
+    },
+    {
+        "headline": "NASA SPACECRAFT MAKES HISTORY WITH CLOSEST-EVER APPROACH TO SUN...",
+        "article_url": "https://mashable.com/article/nasa-parker-solar-probe-sun-breaks-record-speed-closest-approach",
+        "archive_date": "December 24, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/24/20241224_144353.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.9281755089759827
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "0a1d4807f62ac2b804aa7f48431b3b0bdb80cc918018e44bc395a8c243218cc5",
+        "scraped_at": "2026-03-02T02:09:23.607898"
+    },
+    {
+        "headline": "NASA detects asteroid that's due to hit Earth's atmosphere in matter of hours...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-14152769",
+        "archive_date": "December 03, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/03/20241203_223553.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.697210431098938
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.916,
+            "pos": 0.084,
+            "compound": 0.0258
+        },
+        "hash": "320c2ea82e70166bfb0fb43166893a3084ea3ed1f9e38da7f878ea3785e8edc4",
+        "scraped_at": "2026-03-02T02:09:23.660382"
+    },
+    {
+        "headline": "NASA spots mysterious 'UFOs' hidden in deep space...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-14141627",
+        "archive_date": "December 02, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/12/02/20241202_225351.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.3894146680831909
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "58968c9902fda155c6f9920d0fdc356908799c48fd66a82d1bbad4a82dce8521",
+        "scraped_at": "2026-03-02T02:09:23.708901"
+    },
+    {
+        "headline": "UPDATE: NASA worries space station leaks potentially 'catastrophic'...",
+        "article_url": "https://spacenews.com/nasa-and-roscosmos-disagree-on-cause-and-severity-of-iss-air-leak/",
+        "archive_date": "November 15, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/15/20241115_132943.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.9159424901008606
+            }
+        ],
+        "scores": {
+            "neg": 0.5,
+            "neu": 0.5,
+            "pos": 0.0,
+            "compound": -0.7184
+        },
+        "hash": "570a3c019eecc3cc4222b7b3512418b9fc790ed37bf7d4b74126d0c390121ded",
+        "scraped_at": "2026-03-02T02:09:23.754011"
+    },
+    {
+        "headline": "NASA monitoring second stranded astronaut's weight loss after raising alarm about colleague's health...",
+        "article_url": "https://nypost.com/2024/11/13/us-news/nasa-monitoring-second-stranded-astronauts-possible-weight-loss-as-sunita-williams-insists-shes-fine/",
+        "archive_date": "November 13, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/13/20241113_143439.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.9493777751922607
+            }
+        ],
+        "scores": {
+            "neg": 0.299,
+            "neu": 0.701,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "hash": "4d6bd6ac79378c62927b2fcc39456a5d95bc735ab1066acd5765022511f1eb16",
+        "scraped_at": "2026-03-02T02:09:23.800781"
+    },
+    {
+        "headline": "Stephen Hawking's end-of-world prediction supported by NASA...",
+        "article_url": "https://www.the-express.com/news/153721",
+        "archive_date": "November 11, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/11/20241111_180950.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5051628947257996
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.723,
+            "pos": 0.277,
+            "compound": 0.3182
+        },
+        "hash": "6b6fa7a39c0edc001711da3b90b492d49d34392dc6a24e44cb64a13309060348",
+        "scraped_at": "2026-03-02T02:09:23.851153"
+    },
+    {
+        "headline": "UPDATE: Photos show physical deterioration of stranded NASA astronaut...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-14055951",
+        "archive_date": "November 09, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/09/20241109_140145.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.681321918964386
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "d9650f0e1332cae93fb9375c2b3bd86951cc5cf40c3b041364c2949a7e3d4a4b",
+        "scraped_at": "2026-03-02T02:09:23.894079"
+    },
+    {
+        "headline": "Health concerns about NASA astronauts stranded on ISS after 'gaunt' new photo...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-14045511",
+        "archive_date": "November 06, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/11/06/20241106_220340.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.9154524803161621
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "36910b0d13be6213f1813687cdd966f2094affcd8cc9b5b7e961cfeb85cdddd2",
+        "scraped_at": "2026-03-02T02:09:23.934245"
+    },
+    {
+        "headline": "PHOTOS: NASA's decaying ISS has been leaking and cracking for years amid evacuation fears...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-14015087",
+        "archive_date": "October 29, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/29/20241029_214852.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.36837074160575867
+            }
+        ],
+        "scores": {
+            "neg": 0.314,
+            "neu": 0.686,
+            "pos": 0.0,
+            "compound": -0.6705
+        },
+        "hash": "5fad346c04c30ea25f591cb75d727187b9aab07a88e7032aadab7a7899994461",
+        "scraped_at": "2026-03-02T02:09:23.980738"
+    },
+    {
+        "headline": "ISS astronauts brace for evacuation as NASA finds concerning leaks...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-14010229",
+        "archive_date": "October 28, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/28/20241028_193050.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.9107939600944519
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "8082db3f1ba4849b916c1abbe57763baa86a79e7591476a5f2af8c31656f0bf6",
+        "scraped_at": "2026-03-02T02:09:24.023120"
+    },
+    {
+        "headline": "NASA HEAD: SHOULD BE INVESTIGATED...",
+        "article_url": "https://www.semafor.com/article/10/25/2024/nasas-bill-nelson-calls-for-investigation-into-report-of-musk-putin-calls",
+        "archive_date": "October 25, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/25/20241025_154429.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.774124264717102
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "59d028e132f7dd887806e19873139cc35434476e303dd437e692406349ea019c",
+        "scraped_at": "2026-03-02T02:09:24.065189"
+    },
+    {
+        "headline": "From nukes to spacecraft swarms: How NASA will stop 'apocalypse' asteroid...",
+        "article_url": "https://www.the-sun.com/tech/12658264",
+        "archive_date": "October 13, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/13/20241013_132547.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.7633818984031677
+            }
+        ],
+        "scores": {
+            "neg": 0.18,
+            "neu": 0.82,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "hash": "7b1035e1437b55ac1b81cd8e5222a1c86c2acab4334d77711bece077fa0048ae",
+        "scraped_at": "2026-03-02T02:09:24.116173"
+    },
+    {
+        "headline": "Scientists long urged NASA to search for signs of life near Jupiter. Now it's happening...",
+        "article_url": "https://www.msn.com/en-us/news/technology/ar-AA1rWSBl",
+        "archive_date": "October 09, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/10/09/20241009_210940.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.878433346748352
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "d5c985a789fc3b09366cb612c9ba2f1bbd44e6b2a603a1916af0370102331f4f",
+        "scraped_at": "2026-03-02T02:09:24.160456"
+    },
+    {
+        "headline": "Growing mushroom houses on moon? NASA's fungus-filled plan...",
+        "article_url": "https://www.aljazeera.com/features/2024/9/29/growing-mushroom-houses-on-the-moon-nasas-fungus-filled-plan",
+        "archive_date": "September 29, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/29/20240929_120247.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.4601922929286957
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.805,
+            "pos": 0.195,
+            "compound": 0.1779
+        },
+        "hash": "862731de9fff642a49766573abf94f46da9390f77437aa2706f10c5172c387c7",
+        "scraped_at": "2026-03-02T02:09:24.215664"
+    },
+    {
+        "headline": "Stranded NASA astronauts: 'Not how we wanted things to turn out'...",
+        "article_url": "https://www.express.co.uk/news/1948390",
+        "archive_date": "September 13, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/13/20240913_185644.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.40076568722724915
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "25219904bf78586f3dbcfd654d0f32f8cc3a67438a4057af63f0d9bae62e5a84",
+        "scraped_at": "2026-03-02T02:09:24.262996"
+    },
+    {
+        "headline": "Stranded NASA astronaut contacts Houston to report 'strange' noise aboard ISS...",
+        "article_url": "https://www.dailymail.co.uk/news/article-13803335",
+        "archive_date": "September 02, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/09/02/20240902_204149.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.7310963869094849
+            }
+        ],
+        "scores": {
+            "neg": 0.151,
+            "neu": 0.756,
+            "pos": 0.092,
+            "compound": -0.1779
+        },
+        "hash": "b26e3b40f373554021266e5d0e41fceaa2c10890e9e97081d13fa555c76eb3d4",
+        "scraped_at": "2026-03-02T02:09:24.309254"
+    },
+    {
+        "headline": "BOEING stranded astronaut fiasco takes sickening twist...\r\n\r\nCould leave NASA duo stuck in space for even longer...",
+        "article_url": "https://www.dailymail.co.uk/sciencetech/article-13796917",
+        "archive_date": "August 30, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/30/20240830_182243.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.4744186997413635
+            }
+        ],
+        "scores": {
+            "neg": 0.432,
+            "neu": 0.568,
+            "pos": 0.0,
+            "compound": -0.836
+        },
+        "hash": "58dbe67bf5a6cb5ea9b8fb39a5f09ba8deab5cef06e0a09f5d07ad9c1cf4e96c",
+        "scraped_at": "2026-03-02T02:09:24.356588"
+    },
+    {
+        "headline": "NASA decides to keep 2 astronauts in space until February, nixes return on troubled BOEING capsule...",
+        "article_url": "https://apnews.com/e4e81e5a6c23dee2f8f72260ddea011c",
+        "archive_date": "August 25, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/25/20240825_131247.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "sadness",
+                "score": 0.8150456547737122
+            }
+        ],
+        "scores": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "hash": "946416a92f92c307baf6137869345ee8f4067ec920a6899c361528dda5373477",
+        "scraped_at": "2026-03-02T02:09:24.400436"
+    },
+    {
+        "headline": "NASA's Asteroid-Smashing Mission Permanently Knocked Moon Off Orbit?",
+        "article_url": "https://studyfinds.org/nasa-asteroid-moon-dart/",
+        "archive_date": "August 24, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/24/20240824_225746.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.723840057849884
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "e07fa8472c363a305f1bfed77d0316932f6edc72b11faa5170103930f03ad028",
+        "scraped_at": "2026-03-02T02:09:24.444368"
+    },
+    {
+        "headline": "BOEING astronauts could be stuck in space until FEBRUARY, NASA says...",
+        "article_url": "https://www.semafor.com/article/08/07/2024/boeing-starliner-spacecraft-might-not-return-astronauts-iss",
+        "archive_date": "August 07, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/08/07/20240807_202540.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.6273846626281738
+            }
+        ],
+        "scores": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.25
+        },
+        "hash": "3311d27c185c6da7861f5edb0ce3e985cf1ec3629a12f6c76a6cfbfbe97cd141",
+        "scraped_at": "2026-03-02T02:09:24.488998"
+    },
+    {
+        "headline": "NASA Mars Rover Stumbles Over 'Strange, Unexpected' Crystals...",
+        "article_url": "https://studyfinds.org/nasa-curiosity-rover-finds-strange-unexpected-crystals-on-mars/",
+        "archive_date": "July 19, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/19/20240719_211657.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.5030821561813354
+            }
+        ],
+        "scores": {
+            "neg": 0.205,
+            "neu": 0.795,
+            "pos": 0.0,
+            "compound": -0.2023
+        },
+        "hash": "f7ac74273df4c99e21a02cff9a0deea4059fe400982af85cbed468d02d76b550",
+        "scraped_at": "2026-03-02T02:09:24.532017"
+    },
+    {
+        "headline": "Crew of NASA earthbound simulated Mars habitat emerge after year...",
+        "article_url": "https://apnews.com/7fd7d511ca22016793d504b1a47f97ee",
+        "archive_date": "July 07, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/07/07/20240707_135056.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8567470908164978
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "a3ab189c4977b409aff40e8ecda7fff7fb32f670e1bf906de583f27d4683ef84",
+        "scraped_at": "2026-03-02T02:09:24.576290"
+    },
+    {
+        "headline": "NASA predicts asteroid has 72% chance of hitting Earth in 2038...",
+        "article_url": "https://www.the-express.com/news/141313",
+        "archive_date": "June 25, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/25/20240625_151256.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8137778043746948
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.833,
+            "pos": 0.167,
+            "compound": 0.25
+        },
+        "hash": "e060f4d9d5e2bfc4bc8b1d09088d322fdc98296d4c7a33fe151f020b842d6de7",
+        "scraped_at": "2026-03-02T02:09:24.627224"
+    },
+    {
+        "headline": "NASA sparks public panic after accidentally airing emergency astronaut drill...",
+        "article_url": "https://www.the-express.com/news/140298",
+        "archive_date": "June 13, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/13/20240613_191356.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.9817224144935608
+            }
+        ],
+        "scores": {
+            "neg": 0.542,
+            "neu": 0.458,
+            "pos": 0.0,
+            "compound": -0.8074
+        },
+        "hash": "9c2d8f9cb2b745b227a05152d5ecc21c8d947a7bdba5134e9e15eb3fd958ccf1",
+        "scraped_at": "2026-03-02T02:09:24.663899"
+    },
+    {
+        "headline": "Starliner launches for first time carrying NASA astronauts to ISS...",
+        "article_url": "https://www.cnbc.com/2024/06/05/boeing-starliner-crew-launch.html",
+        "archive_date": "June 05, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/05/20240605_145556.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7671552300453186
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "6e158287f1b579d8bb95082ad0a6cb17193fa55d6cbfb052cd93e28a42dcd483",
+        "scraped_at": "2026-03-02T02:09:24.701250"
+    },
+    {
+        "headline": "BOEING going for first launch of NASA astronauts on STARLINER spacecraft...",
+        "article_url": "https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html",
+        "archive_date": "June 01, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/06/01/20240601_153256.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7313060760498047
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "3860be1cc934f89380e6de130627d769a9e01a8b7bc708170ea8c719dc19297c",
+        "scraped_at": "2026-03-02T02:09:24.744746"
+    },
+    {
+        "headline": "NASA spacecraft found 'dead' robot on Mars...",
+        "article_url": "https://www.msn.com/en-us/news/technology/ar-BB1mRv31",
+        "archive_date": "May 22, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/22/20240522_185556.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "disgust",
+                "score": 0.4471965730190277
+            }
+        ],
+        "scores": {
+            "neg": 0.417,
+            "neu": 0.583,
+            "pos": 0.0,
+            "compound": -0.6486
+        },
+        "hash": "975f2623ae385dda8fb547830eec0061f9afd174c4919bcc621a1a302b1dc1ff",
+        "scraped_at": "2026-03-02T02:09:24.780442"
+    },
+    {
+        "headline": "NASA watchdog report: 100+ cracks on heat shield biggest threat to human moon mission...",
+        "article_url": "https://www.yahoo.com/tech/nasa-watchdog-report-100-cracks-163500997.html",
+        "archive_date": "May 10, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/10/20240510_110056.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.7204533815383911
+            }
+        ],
+        "scores": {
+            "neg": 0.207,
+            "neu": 0.793,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "hash": "afef11283f71720a8728cec2d502fe561db0bcae86e19796df65b4bee0f8c4af",
+        "scraped_at": "2026-03-02T02:09:24.825521"
+    },
+    {
+        "headline": "China blasts rocket to far side of Moon to grab mysterious rock sample before NASA...",
+        "article_url": "https://www.the-sun.com/tech/11266133/china-moon-rocket-space-launch-sample/",
+        "archive_date": "May 03, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/05/03/20240503_110355.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.4587244689464569
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "e3e6c2d518f44eda036239fa41d3543f1bbfeaa3a4ecbb7848c4c1e971c8afb7",
+        "scraped_at": "2026-03-02T02:09:24.865344"
+    },
+    {
+        "headline": "NASA warns China may try to take over Moon!",
+        "article_url": "https://metro.co.uk/2024/04/19/nasa-warns-china-may-try-take-moon-20678702/",
+        "archive_date": "April 20, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/20/20240420_185155.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "fear",
+                "score": 0.8023061752319336
+            }
+        ],
+        "scores": {
+            "neg": 0.175,
+            "neu": 0.825,
+            "pos": 0.0,
+            "compound": -0.1759
+        },
+        "hash": "af1e6fe2590733f2b4deceaa2425163a9e4c98f6b612a35f612dcfda68565705",
+        "scraped_at": "2026-03-02T02:09:24.907882"
+    },
+    {
+        "headline": "NASA confirms space junk that hit Florida home came from space station...",
+        "article_url": "https://www.yahoo.com/news/nasa-confirms-space-junk-hit-165300155.html",
+        "archive_date": "April 17, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/17/20240417_050326.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.49523720145225525
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "ed043f3dfc4e37e90d8d854a7d77cd80099de73b7cab66eae3d87b8915aa335a",
+        "scraped_at": "2026-03-02T02:09:24.953842"
+    },
+    {
+        "headline": "NASA shocked by how close Russian spacecraft came to hitting satellite...",
+        "article_url": "https://www.yahoo.com/news/russian-spacecraft-near-miss-nasa-143230973.html",
+        "archive_date": "April 11, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/11/20240411_030755.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "surprise",
+                "score": 0.9782447218894958
+            }
+        ],
+        "scores": {
+            "neg": 0.187,
+            "neu": 0.813,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "hash": "27716349f91fd12e5f5ec7b80c49e8e1e40099538e4f69b740fab8d4377e63ba",
+        "scraped_at": "2026-03-02T02:09:24.996368"
+    },
+    {
+        "headline": "NASA SPOTS OBJECT SPEEDING AROUND MOON...",
+        "article_url": "https://futurism.com/the-byte/nasa-spots-object-speeding-around-moon",
+        "archive_date": "April 08, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/08/20240408_205656.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.8896923065185547
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "hash": "c55169c8225b471d7fd1879ea4b1d217a654720710dd6ff8ae51d7b18667e86e",
+        "scraped_at": "2026-03-02T02:09:25.038215"
+    },
+    {
+        "headline": "White House directs NASA to create time standard for moon!",
+        "article_url": "https://www.yahoo.com/news/exclusive-white-house-directs-nasa-183828073.html",
+        "archive_date": "April 03, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/04/03/20240403_001856.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.5933014750480652
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.79,
+            "pos": 0.21,
+            "compound": 0.3382
+        },
+        "hash": "6ed39ac6947b80d0adeaca702fbb7f120ab9fec4be3e3fbfc95070553d1baf5a",
+        "scraped_at": "2026-03-02T02:09:25.082836"
+    },
+    {
+        "headline": "NASA probe ready to 'touch the sun'...",
+        "article_url": "https://www.msn.com/en-us/news/other/ar-BB1k5y59",
+        "archive_date": "March 18, 2024",
+        "edition_time": "18:07:22",
+        "archive_url": "https://www.drudgereportarchives.com/data/2024/03/18/20240318_191656.htm",
+        "query_name": "nasa",
+        "emotion": [
+            {
+                "label": "neutral",
+                "score": 0.7630491852760315
+            }
+        ],
+        "scores": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "hash": "f734d508d596f210adfd562d08f4342a5a4085e80c865a68c3f56df85d24c634",
+        "scraped_at": "2026-03-02T02:09:25.122159"
+    }
+]
